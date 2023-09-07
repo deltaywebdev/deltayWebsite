@@ -1,20 +1,18 @@
 # DeltaY Website
 Our company website
 
-***
-
 ## Info
 This site was built with Vite + React + Typescript and uses react-router to control page routing in React.
 
 ## Getting Started
+Refer to this [Git Tutorial](https://www.atlassian.com/git/tutorials) for a comprehensive guide.
+
 ### Cloning Repository
 1. **Create a new folder for the website code on your machine**
 
-   Open your file explorer and create a new folder in a location of your choice. You can name it anything you like, e.g., "DeltaY_Website."
+   Open your file explorer and create a new folder in a location of your choice. You can name it anything you like, e.g., "DeltaY."
 
 2. **Go to the folder, right-click (Windows 11: Show more options), and select `Git Bash here`**
-
-   Navigate to the folder you just created, right-click inside it, and choose "Git Bash here" from the context menu. This will open a Git Bash terminal in that folder.
 
 3. **Generate SSH Key (If not already done)**
 
@@ -26,9 +24,17 @@ This site was built with Vite + React + Typescript and uses react-router to cont
 
    When prompted, press Enter to use the default file location and leave the passphrase empty.
 
-4. **Clone the Repository**
+4. **Configure Git with Your GitHub Account**
 
-   Go to the DeltaY Website repository on GitHub by clicking the following link: [DeltaY Website Repository](https://github.com/deltaywebdev/website).
+   If you haven't configured Git with your GitHub account, you need to set your GitHub username and email in Git. Run the following commands in the Git Bash terminal, replacing `"Your Name"` and `"your-github@email.example"` with your actual GitHub username and email:
+
+   ```shell
+   git config --global user.name "Your Name"
+   git config --global user.email "your-github@email.example"
+
+5. **Clone the Repository**
+
+   Go to the [DeltaY Website Repository](https://github.com/deltaywebdev/website).
 
    Click on the "Code" button and select "Local" > "SSH" to switch to the SSH URL.
 
@@ -42,7 +48,7 @@ This site was built with Vite + React + Typescript and uses react-router to cont
 
    This will download the repository to your local machine.
 
-5. **Install Dependencies**
+6. **Install Dependencies**
 
    Change your working directory to the cloned repository folder:
 
@@ -58,18 +64,7 @@ This site was built with Vite + React + Typescript and uses react-router to cont
 
    This will install all the necessary packages and dependencies for the DeltaY Website project.
 
-### Configuring Git and Making Changes
-6. **Configure Git with Your GitHub Account**
-
-   If you haven't configured Git with your GitHub account, you need to set your GitHub username and email in Git. Run the following commands in the Git Bash terminal, replacing `"Your Name"` and `"your-github@email.example"` with your actual GitHub username and email:
-
-   ```shell
-   git config --global user.name "Your Name"
-   git config --global user.email "your-github@email.example"
-   ```
-
-   This step is essential for Git to associate your commits with your GitHub account.
-
+### Making Changes
 7. **Make Changes**
 
    You can now make changes to the code in the DeltaY Website project folder using your preferred code editor.
@@ -104,7 +99,3 @@ This site was built with Vite + React + Typescript and uses react-router to cont
     ```
 
     This associates your local repository with the remote repository on GitHub.
-
-Congratulations! You have successfully cloned the DeltaY Website repository, configured Git with your GitHub account, made changes, committed them, and pushed them to GitHub. For more in-depth information on Git and its commands, you can refer to this [Git Tutorial](https://www.atlassian.com/git/tutorials) for a comprehensive guide.
-
-Now you can collaborate with your team and contribute to the DeltaY Website project.
