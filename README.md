@@ -31,7 +31,7 @@ Refer to this [Git Tutorial](https://www.atlassian.com/git/tutorials) for a comp
    ```shell
    git config --global user.name "Your Name"
    git config --global user.email "your-github@email.example"
-
+   ```
 5. **Clone the Repository**
 
    Go to the [DeltaY Website Repository](https://github.com/deltaywebdev/website).
@@ -65,11 +65,31 @@ Refer to this [Git Tutorial](https://www.atlassian.com/git/tutorials) for a comp
    This will install all the necessary packages and dependencies for the DeltaY Website project.
 
 ### Making Changes
-7. **Make Changes**
+1. **Create a New Branch**
+
+   Before making changes, it's a good practice to create a new branch for your work. You can do this using the following command:
+
+   ```shell
+   git checkout -b your-branch-name
+   ```
+
+   Replace `your-branch-name` with a descriptive name for your branch.
+
+2. **Make Changes**
 
    You can now make changes to the code in the DeltaY Website project folder using your preferred code editor.
 
-8. **Commit Changes**
+3. **Setting Up Remote**
+
+    If you haven't configured the remote repository, you can do so with the following command:
+
+    ```shell
+    git remote add origin git@github.com:deltaywebdev/website.git
+    ```
+
+    This associates your local repository with the remote repository on GitHub.
+ 
+4. **Commit Changes**
 
    After making changes, open your Git Bash terminal again, navigate to the project folder if you're not already there, and run the following commands to commit your changes:
 
@@ -80,22 +100,14 @@ Refer to this [Git Tutorial](https://www.atlassian.com/git/tutorials) for a comp
 
    Replace `"Your commit message here"` with a brief description of the changes you made.
 
-9. **Push Changes to GitHub**
+5. **Push Changes to GitHub**
 
    To push your committed changes to the GitHub repository, use the following command:
 
    ```shell
-   git push
+   git push origin your-branch-name
    ```
 
-   You may be prompted to log in to your GitHub account.
+6. **Merging Your Branch**
 
-10. **Setting Up Remote (Optional)**
-
-    If you haven't configured the remote repository, you can do so with the following command:
-
-    ```shell
-    git remote add origin git@github.com:deltaywebdev/website.git
-    ```
-
-    This associates your local repository with the remote repository on GitHub.
+    If you're ready to merge your changes into the main branch, you can create a pull request on the GitHub repository's website. Once your changes are reviewed and approved, they can be merged into the main branch.
