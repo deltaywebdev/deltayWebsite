@@ -3,7 +3,7 @@ Our company website
 
 ## Info
 This sites frontend was built with Vite + React + Typescript and uses react-router to control page routing in React.
-Communication with the backend uses axios, the backend constits of php (PDO) and MySQL
+Axios is used for communication with the backend, which consists of php (PDO) and MySQL.
 
 ## Getting Started
 Refer to this [Git Tutorial](https://www.atlassian.com/git/tutorials) for a comprehensive guide.
