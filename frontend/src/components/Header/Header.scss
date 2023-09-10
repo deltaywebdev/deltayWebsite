@@ -1,0 +1,26 @@
+header {
+    position: sticky;
+    left: 0;
+    right: 0;
+    padding: 2em;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    nav {
+        display: flex;
+        gap: 30px;
+    }
+}
+
+.header-logo {
+    display: flex;
+    align-items: center;
+    font-size: 50px;
+    margin: 0 0.5em;
+
+    img {
+        height: 1em;
+    }
+}
