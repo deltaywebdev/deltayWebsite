@@ -116,7 +116,7 @@ Refer to this [Git Tutorial](https://www.atlassian.com/git/tutorials) for a comp
     ```shell
    git init
    ```
-   After that you navigate to File > Preferences > Settings > Type git:enabled into the search box > Make sure the box is enabled
+   After that you navigate to File > Preferences > Settings > Type git:enabled into the search box > Make sure the box is enabled.
 
  
 5. **Commit Changes**
