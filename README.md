@@ -111,7 +111,7 @@ Refer to this [Git Tutorial](https://www.atlassian.com/git/tutorials) for a comp
     This associates your local repository with the remote repository on GitHub.
 
 4. **Add GIT to Visual Studio Code**
-   If you use Visual studio Code you need to enable git, first create a instance of Git in your Folger using:
+   If you use Visual Studio Code you need to enable git, first create a instance of Git in your Folger using:
 
     ```shell
    git init
