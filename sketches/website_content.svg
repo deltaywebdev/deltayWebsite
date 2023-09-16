@@ -28,8 +28,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.2255833"
-     inkscape:cx="84.857553"
-     inkscape:cy="2322.1596"
+     inkscape:cx="348.8135"
+     inkscape:cy="622.5607"
      inkscape:window-width="1920"
      inkscape:window-height="974"
      inkscape:window-x="-11"
@@ -52,6 +52,17 @@
        height="6"
        x="0"
        y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath48130">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+         id="rect48132"
+         width="811.25702"
+         height="60.990486"
+         x="-12.532291"
+         y="1000.9124" />
+    </clipPath>
   </defs>
   <g
      inkscape:label="Ebene 1"
@@ -92,13 +103,13 @@
        transform="translate(35.551121,-4.8142144)"><tspan
          x="140.25288"
          y="13.462599"
-         id="tspan91612">Sprachmenü </tspan><tspan
+         id="tspan79443">Sprachmenü </tspan><tspan
          x="140.25288"
          y="17.872312"
-         id="tspan91614">(Deutsch - </tspan><tspan
+         id="tspan79445">(Deutsch - </tspan><tspan
          x="140.25288"
          y="22.282025"
-         id="tspan91616">Englisch)</tspan></text>
+         id="tspan79447">Englisch)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
@@ -159,13 +170,13 @@
        transform="translate(43.883416,22.960099)"><tspan
          x="104.29025"
          y="-14.573572"
-         id="tspan91618">So ein hilfe </tspan><tspan
+         id="tspan79449">So ein hilfe </tspan><tspan
          x="104.29025"
          y="-10.163859"
-         id="tspan91620">button, vllt ein </tspan><tspan
+         id="tspan79451">button, vllt ein </tspan><tspan
          x="104.29025"
          y="-5.7541464"
-         id="tspan91622">fragezeichen</tspan></text>
+         id="tspan79453">fragezeichen</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:26.171;display:inline;stroke-width:0.264583"
@@ -244,10 +255,10 @@
        transform="translate(16.479426,-1.4812968)"><tspan
          x="153.65822"
          y="45.735039"
-         id="tspan91624">hier ist ein nach </tspan><tspan
+         id="tspan79455">hier ist ein nach </tspan><tspan
          x="153.65822"
          y="50.144753"
-         id="tspan91626">oben button</tspan></text>
+         id="tspan79457">oben button</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
@@ -268,16 +279,16 @@
        transform="translate(-13.146508,-2.5922693)"><tspan
          x="20.172806"
          y="35.082954"
-         id="tspan91628">Kannst du auch ein Abschnitt </tspan><tspan
+         id="tspan79459">Kannst du auch ein Abschnitt </tspan><tspan
          x="20.172806"
          y="39.492668"
-         id="tspan91630">machen so die Fonts und die </tspan><tspan
+         id="tspan79461">machen so die Fonts und die </tspan><tspan
          x="20.172806"
          y="43.902382"
-         id="tspan91632">Main Farben vom </tspan><tspan
+         id="tspan79463">Main Farben vom </tspan><tspan
          x="20.172806"
          y="48.312096"
-         id="tspan91634">Unternehmen :D</tspan></text>
+         id="tspan79465">Unternehmen :D</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.373203;stroke-dasharray:none;stroke-opacity:1"
        id="rect18367"
@@ -333,7 +344,7 @@
        transform="translate(0.85782932,34.033832)"><tspan
          x="8.3059721"
          y="139.98253"
-         id="tspan91636">Paar unserer Projekte</tspan></text>
+         id="tspan79467">Paar unserer Projekte</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="rect20535"
@@ -371,7 +382,7 @@
        transform="translate(25.484388,64.03009)"><tspan
          x="8.3059721"
          y="139.98253"
-         id="tspan91638">Alle ansehen</tspan></text>
+         id="tspan79469">Alle ansehen</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:39.7721;display:inline;stroke-width:0.264583"
@@ -381,10 +392,10 @@
        transform="translate(44.000597,32.18221)"><tspan
          x="8.3059721"
          y="139.98253"
-         id="tspan91640">Das wird am anfang leer </tspan><tspan
+         id="tspan79471">Das wird am anfang leer </tspan><tspan
          x="8.3059721"
          y="144.39224"
-         id="tspan91642">sein :( </tspan></text>
+         id="tspan79473">sein :( </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:39.7721;display:inline;stroke-width:0.264583"
@@ -394,7 +405,7 @@
        transform="translate(0.77211403,-17.256442)"><tspan
          x="8.3059721"
          y="139.98253"
-         id="tspan91644">Unsere Top Angebote</tspan></text>
+         id="tspan79475">Unsere Top Angebote</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.485639;stroke-dasharray:none;stroke-opacity:1"
        id="rect20837"
@@ -425,16 +436,16 @@
        transform="translate(29.739544,-6.2032062)"><tspan
          x="8.3059721"
          y="139.98253"
-         id="tspan91646">Webseiten </tspan><tspan
+         id="tspan79477">Webseiten </tspan><tspan
          x="8.3059721"
          y="144.39224"
-         id="tspan91648">Design, Logo </tspan><tspan
+         id="tspan79479">Design, Logo </tspan><tspan
          x="8.3059721"
          y="148.80195"
-         id="tspan91650">und company </tspan><tspan
+         id="tspan79481">und company </tspan><tspan
          x="8.3059721"
          y="153.21167"
-         id="tspan91652">branding</tspan></text>
+         id="tspan79483">branding</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:20.9183;display:inline;stroke-width:0.264583"
@@ -444,13 +455,13 @@
        transform="translate(58.985854,-6.2481342)"><tspan
          x="8.3059721"
          y="139.98253"
-         id="tspan91654">Wordpress/</tspan><tspan
+         id="tspan79485">Wordpress/</tspan><tspan
          x="8.3059721"
          y="144.39224"
-         id="tspan91656">Wix.com </tspan><tspan
+         id="tspan79487">Wix.com </tspan><tspan
          x="8.3059721"
          y="148.80195"
-         id="tspan91658">Webseiten</tspan></text>
+         id="tspan79489">Webseiten</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:39.7721;display:inline;stroke-width:0.264583"
@@ -460,7 +471,7 @@
        transform="translate(64.654242,-17.164467)"><tspan
          x="8.3059721"
          y="139.98253"
-         id="tspan91660">Zeig mehr</tspan></text>
+         id="tspan79491">Zeig mehr</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:21.2559;display:inline;stroke-width:0.264583"
@@ -470,13 +481,13 @@
        transform="translate(0.58695403,-5.4060672)"><tspan
          x="8.3059721"
          y="139.98253"
-         id="tspan91662">Custom </tspan><tspan
+         id="tspan79493">Custom </tspan><tspan
          x="8.3059721"
          y="144.39224"
-         id="tspan91664">Website </tspan><tspan
+         id="tspan79495">Website </tspan><tspan
          x="8.3059721"
          y="148.80195"
-         id="tspan91666">Development</tspan></text>
+         id="tspan79497">Development</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:39.7721;display:inline;stroke-width:0.264583"
@@ -486,7 +497,7 @@
        transform="translate(0.6834532,155.89386)"><tspan
          x="8.3059721"
          y="139.98253"
-         id="tspan91668">Kontaktiere uns</tspan></text>
+         id="tspan79499">Kontaktiere uns</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.010852;stroke-dasharray:none;stroke-opacity:1"
        id="rect36521"
@@ -503,7 +514,7 @@
        transform="translate(2.8570419,163.94984)"><tspan
          x="8.3059721"
          y="139.98253"
-         id="tspan91670">Fancy Kontaktformular mit Email und Nachricht :D</tspan></text>
+         id="tspan79501">Fancy Kontaktformular mit Email und Nachricht :D</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
@@ -529,7 +540,7 @@
        transform="translate(0.85782932,112.61757)"><tspan
          x="8.3059721"
          y="139.98253"
-         id="tspan91672">Review Slider</tspan></text>
+         id="tspan79503">Review Slider</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="rect40383"
@@ -567,10 +578,10 @@
        transform="translate(30.391183,111.32144)"><tspan
          x="8.3059721"
          y="139.98253"
-         id="tspan91674">Das wird am anfang leer </tspan><tspan
+         id="tspan79505">Das wird am anfang leer </tspan><tspan
          x="8.3059721"
          y="144.39224"
-         id="tspan91676">sein :( </tspan></text>
+         id="tspan79507">sein :( </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
@@ -612,10 +623,10 @@
        transform="matrix(0.56465302,0,0,0.56465302,3.8904582,187.19452)"><tspan
          x="8.3059721"
          y="139.98253"
-         id="tspan91678">hier stehen verfasser, </tspan><tspan
+         id="tspan79509">hier stehen verfasser, </tspan><tspan
          x="8.3059721"
          y="144.39224"
-         id="tspan91680">text und wie viele sterne</tspan></text>
+         id="tspan79511">text und wie viele sterne</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:39.7721;display:inline;stroke-width:0.264583"
@@ -625,16 +636,16 @@
        transform="matrix(0.51271318,0,0,0.51271318,60.517544,208.36351)"><tspan
          x="8.3059721"
          y="139.98253"
-         id="tspan91682">Wenn man zu weit slidet </tspan><tspan
+         id="tspan79513">Wenn man zu weit slidet </tspan><tspan
          x="8.3059721"
          y="144.39224"
-         id="tspan91684">kommt ein button: Zeige </tspan><tspan
+         id="tspan79515">kommt ein button: Zeige </tspan><tspan
          x="8.3059721"
          y="148.80195"
-         id="tspan91686">alle Reviews / Leave a </tspan><tspan
+         id="tspan79517">alle Reviews / Leave a </tspan><tspan
          x="8.3059721"
          y="153.21167"
-         id="tspan91688">Review</tspan></text>
+         id="tspan79519">Review</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.352778;stroke-dasharray:none;stroke-opacity:1"
        id="rect44440"
@@ -662,10 +673,10 @@
        transform="translate(-0.2158836,-5.1812064)"><tspan
          x="108.45763"
          y="108.18504"
-         id="tspan91690">Wir verbinden aufstrebende Webentwickler mit </tspan><tspan
+         id="tspan79521">Wir verbinden aufstrebende Webentwickler mit </tspan><tspan
          x="108.45763"
          y="112.59475"
-         id="tspan91692">Kunden, die eine Webseite brauchen.
+         id="tspan79523">Kunden, die eine Webseite brauchen.
 </tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.489115;stroke-dasharray:none;stroke-opacity:1"
@@ -683,7 +694,7 @@
        transform="translate(12.831078,21.210558)"><tspan
          x="108.45763"
          y="108.18504"
-         id="tspan91694">Wordpress Entwickler</tspan></text>
+         id="tspan79525">Wordpress Entwickler</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:60.0046;display:inline;stroke-width:0.264583"
@@ -693,10 +704,10 @@
        transform="translate(13.092937,27.757027)"><tspan
          x="108.45763"
          y="108.18504"
-         id="tspan91696">Wir brauchen wen, der Wordpress </tspan><tspan
+         id="tspan79527">Wir brauchen wen, der Wordpress </tspan><tspan
          x="108.45763"
          y="112.59475"
-         id="tspan91698">Seiten erstellen kann</tspan></text>
+         id="tspan79529">Seiten erstellen kann</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:60.0046;display:inline;stroke-width:0.264583"
@@ -706,7 +717,7 @@
        transform="translate(13.354795,37.445801)"><tspan
          x="108.45763"
          y="108.18504"
-         id="tspan91700">Mehr dazu</tspan></text>
+         id="tspan79531">Mehr dazu</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:60.0046;display:inline;stroke-width:0.264583"
@@ -716,7 +727,7 @@
        transform="rotate(-90.592719,126.76215,120.49237)"><tspan
          x="108.45763"
          y="108.18504"
-         id="tspan91702">Bild</tspan></text>
+         id="tspan79533">Bild</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.489115;stroke-dasharray:none;stroke-opacity:1"
        id="rect47082"
@@ -733,7 +744,7 @@
        transform="translate(12.569219,52.895466)"><tspan
          x="108.45763"
          y="108.18504"
-         id="tspan91704">Sales Manager</tspan></text>
+         id="tspan79535">Sales Manager</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:60.0046;display:inline;stroke-width:0.264583"
@@ -743,10 +754,10 @@
        transform="translate(12.831078,58.3945)"><tspan
          x="108.45763"
          y="108.18504"
-         id="tspan91706">Wir brauchen dich Tobias </tspan><tspan
+         id="tspan79537">Wir brauchen dich Tobias </tspan><tspan
          x="108.45763"
          y="112.59475"
-         id="tspan91708">Schönberger &lt;33</tspan></text>
+         id="tspan79539">Schönberger &lt;33</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:60.0046;display:inline;stroke-width:0.264583"
@@ -756,7 +767,7 @@
        transform="translate(13.092936,69.130709)"><tspan
          x="108.45763"
          y="108.18504"
-         id="tspan91710">Mehr dazu</tspan></text>
+         id="tspan79541">Mehr dazu</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:60.0046;display:inline;stroke-width:0.264583"
@@ -766,7 +777,7 @@
        transform="rotate(-90.592719,142.31063,136.46441)"><tspan
          x="108.45763"
          y="108.18504"
-         id="tspan91712">Bild</tspan></text>
+         id="tspan79543">Bild</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:84.0956;display:inline;stroke-width:0.264583"
@@ -776,10 +787,10 @@
        transform="translate(-0.78557622,83.794797)"><tspan
          x="108.45763"
          y="108.18504"
-         id="tspan91714">Wenn keine Jobs sind dann die Nachricht: Aktuell </tspan><tspan
+         id="tspan79545">Wenn keine Jobs sind dann die Nachricht: Aktuell </tspan><tspan
          x="108.45763"
          y="112.59475"
-         id="tspan91716">keine Job Angebote, oder so
+         id="tspan79547">keine Job Angebote, oder so
 </tspan></text>
     <text
        xml:space="preserve"
@@ -801,7 +812,7 @@
        transform="translate(0.26185874,113.19939)"><tspan
          x="108.45763"
          y="108.18504"
-         id="tspan91718">Bekomme deine fertige Webseite in ab 1 Woche! </tspan></text>
+         id="tspan79549">Bekomme deine fertige Webseite in ab 1 Woche! </tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:'Almonte Snow';-inkscape-font-specification:'Almonte Snow';stroke-width:0.264583"
@@ -822,7 +833,7 @@
        transform="translate(54.622817,6.110349)"><tspan
          x="20.172806"
          y="35.082954"
-         id="tspan91720"> </tspan></text>
+         id="tspan79551"> </tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.27318;stroke-dasharray:none;stroke-opacity:1"
        id="rect60705"
@@ -839,7 +850,7 @@
        transform="matrix(2.3678913,0,0,2.3678913,-240.80795,-156.34484)"><tspan
          x="108.91512"
          y="250.64581"
-         id="tspan91722">445</tspan></text>
+         id="tspan79553">445</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -849,7 +860,7 @@
        transform="matrix(0.76636824,0,0,0.76636824,-72.592304,245.0332)"><tspan
          x="108.91512"
          y="250.64581"
-         id="tspan91724">Preis:</tspan></text>
+         id="tspan79555">Preis:</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -859,7 +870,7 @@
        transform="matrix(0.76636824,0,0,0.76636824,-55.299419,245.04365)"><tspan
          x="108.91512"
          y="250.64581"
-         id="tspan91726">€</tspan></text>
+         id="tspan79557">€</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -876,7 +887,7 @@
        transform="matrix(0.76636824,0,0,0.76636824,-43.085001,245.41744)"><tspan
          x="108.91512"
          y="250.64581"
-         id="tspan91728">Geschätzte Dauer:</tspan></text>
+         id="tspan79559">Geschätzte Dauer:</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -886,7 +897,7 @@
        transform="matrix(0.76636824,0,0,0.76636824,-12.521126,245.26615)"><tspan
          x="108.91512"
          y="250.64581"
-         id="tspan91730">Tage</tspan></text>
+         id="tspan79561">Tage</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.40579px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.255435"
@@ -922,10 +933,10 @@
        transform="matrix(0.5355581,0,0,0.5355581,-50.427521,288.28563)"><tspan
          x="108.45763"
          y="108.18504"
-         id="tspan91732">Die angegebenen Preise und Zeiten sind eine ungefähre Referenz, Kosten und Dauer können je nach </tspan><tspan
+         id="tspan79563">Die angegebenen Preise und Zeiten sind eine ungefähre Referenz, Kosten und Dauer können je nach </tspan><tspan
          x="108.45763"
          y="112.59475"
-         id="tspan91734">Kundenanforderungen varieren. </tspan></text>
+         id="tspan79565">Kundenanforderungen varieren. </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:159.332;display:inline;stroke-width:0.264583"
@@ -935,10 +946,10 @@
        transform="matrix(0.5355581,0,0,0.5355581,48.671811,168.74328)"><tspan
          x="108.45763"
          y="108.18504"
-         id="tspan91736">Die angegebenen Preise und Zeiten sind eine ungefähre Referenz, Kosten und Dauer können je nach </tspan><tspan
+         id="tspan79567">Die angegebenen Preise und Zeiten sind eine ungefähre Referenz, Kosten und Dauer können je nach </tspan><tspan
          x="108.45763"
          y="112.59475"
-         id="tspan91738">Kundenanforderungen varieren. </tspan></text>
+         id="tspan79569">Kundenanforderungen varieren. </tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.387592;stroke-dasharray:none;stroke-opacity:1"
        id="rect82177"
@@ -977,7 +988,7 @@
        transform="matrix(0.88420111,0,0,0.88420111,12.016515,31.80831)"><tspan
          x="108.87829"
          y="249.49284"
-         id="tspan91740">✓Das erste halbe Jahr kostenlose Umsetzung kleiner Änderungen </tspan></text>
+         id="tspan79571">✓Das erste halbe Jahr kostenlose Umsetzung kleiner Änderungen </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.93824px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke-width:0.145368"
@@ -1014,16 +1025,16 @@
        transform="translate(3.3067672,-0.14780681)"><tspan
          x="204.67032"
          y="242.03828"
-         id="tspan91742">Ich mag die Struktur hier nicht, </tspan><tspan
+         id="tspan79573">Ich mag die Struktur hier nicht, </tspan><tspan
          x="204.67032"
          y="244.46109"
-         id="tspan91744">vielleicht kann man das mit </tspan><tspan
+         id="tspan79575">vielleicht kann man das mit </tspan><tspan
          x="204.67032"
          y="246.88389"
-         id="tspan91746">einem Dropdown oder was </tspan><tspan
+         id="tspan79577">einem Dropdown oder was </tspan><tspan
          x="204.67032"
          y="249.3067"
-         id="tspan91748">anderem lösen</tspan></text>
+         id="tspan79579">anderem lösen</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.0981px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;fill:#770000;fill-opacity:1;stroke:none;stroke-width:0.962;stroke-dasharray:none;stroke-opacity:1"
@@ -1044,7 +1055,7 @@
        transform="matrix(0.88420111,0,0,0.88420111,11.939473,38.216813)"><tspan
          x="108.87829"
          y="249.49284"
-         id="tspan91750">✓Wir reservieren Ihnen bei Bedarf eine Domain und richten das Hosting Ihrer Seite ein</tspan></text>
+         id="tspan79581">✓Wir reservieren Ihnen bei Bedarf eine Domain und richten das Hosting Ihrer Seite ein</tspan></text>
     <g
        id="g127237"
        transform="translate(28.87362,4.0464245)">
@@ -1075,13 +1086,13 @@
          transform="matrix(0.76636824,0,0,0.76636824,26.310966,86.040296)"><tspan
            x="108.91512"
            y="250.64581"
-           id="tspan91752">Professionelle Webseite </tspan><tspan
+           id="tspan79583">Professionelle Webseite </tspan><tspan
            x="108.91512"
            y="253.89656"
-           id="tspan91754">mit dem Homepage-</tspan><tspan
+           id="tspan79585">mit dem Homepage-</tspan><tspan
            x="108.91512"
            y="257.14731"
-           id="tspan91756">Builder Wordpress</tspan></text>
+           id="tspan79587">Builder Wordpress</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1091,7 +1102,7 @@
          transform="matrix(2.3678913,0,0,2.3678913,-139.22109,-274.58436)"><tspan
            x="108.91512"
            y="250.64581"
-           id="tspan91758">150</tspan></text>
+           id="tspan79589">150</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1101,7 +1112,7 @@
          transform="matrix(0.76636824,0,0,0.76636824,32.546266,126.91615)"><tspan
            x="108.91512"
            y="250.64581"
-           id="tspan91760">ab</tspan></text>
+           id="tspan79591">ab</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1111,7 +1122,7 @@
          transform="matrix(0.76636824,0,0,0.76636824,45.969481,126.82955)"><tspan
            x="108.91512"
            y="250.64581"
-           id="tspan91762">€</tspan></text>
+           id="tspan79593">€</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1121,7 +1132,7 @@
          transform="matrix(2.3678913,0,0,2.3678913,-139.5675,-281.85888)"><tspan
            x="108.91512"
            y="250.64581"
-           id="tspan91764">1</tspan></text>
+           id="tspan79595">1</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1131,7 +1142,7 @@
          transform="matrix(0.76636824,0,0,0.76636824,32.19986,119.64163)"><tspan
            x="108.91512"
            y="250.64581"
-           id="tspan91766">ab</tspan></text>
+           id="tspan79597">ab</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1141,7 +1152,7 @@
          transform="matrix(0.76636824,0,0,0.76636824,38.764595,119.79998)"><tspan
            x="108.91512"
            y="250.64581"
-           id="tspan91768">Woche</tspan></text>
+           id="tspan79599">Woche</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.19208px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:26.1551;display:inline;fill:#005b00;fill-opacity:1;stroke-width:0.164406"
@@ -1151,7 +1162,7 @@
          transform="matrix(0.88420111,0,0,0.88420111,12.261461,66.615938)"><tspan
            x="108.87829"
            y="249.49284"
-           id="tspan91770">✓Perfekt für Blogs </tspan></text>
+           id="tspan79601">✓Perfekt für Blogs </tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.19208px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:26.351;display:inline;fill:#005b00;fill-opacity:1;stroke-width:0.164406"
@@ -1161,7 +1172,7 @@
          transform="matrix(0.88420111,0,0,0.88420111,12.434664,70.079994)"><tspan
            x="108.87829"
            y="249.49284"
-           id="tspan91772">✓Schnell </tspan></text>
+           id="tspan79603">✓Schnell </tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.19208px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:27.2325;display:inline;fill:#5a5a5a;fill-opacity:1;stroke-width:0.164406"
@@ -1171,7 +1182,7 @@
          transform="matrix(0.88420111,0,0,0.88420111,12.261461,73.284245)"><tspan
            x="108.87829"
            y="249.49284"
-           id="tspan91774">x Weniger Personalisierung </tspan></text>
+           id="tspan79605">x Weniger Personalisierung </tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.19208px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:27.2325;display:inline;fill:#5a5a5a;fill-opacity:1;stroke-width:0.164406"
@@ -1181,10 +1192,10 @@
          transform="matrix(0.88420111,0,0,0.88420111,12.434664,76.748302)"><tspan
            x="108.87829"
            y="249.49284"
-           id="tspan91776">x Mehr auf Funktionalität </tspan><tspan
+           id="tspan79607">x Mehr auf Funktionalität </tspan><tspan
            x="108.87829"
            y="252.23293"
-           id="tspan91778">als auf Design ausgerichtet </tspan></text>
+           id="tspan79609">als auf Design ausgerichtet </tspan></text>
       <rect
          style="fill:#ffffff;stroke:#000000;stroke-width:0.276151;stroke-dasharray:none;stroke-opacity:1"
          id="rect104113"
@@ -1212,13 +1223,13 @@
          transform="matrix(0.76636824,0,0,0.76636824,26.310966,86.040296)"><tspan
            x="108.91512"
            y="250.64581"
-           id="tspan91780">Professionelle Webseite </tspan><tspan
+           id="tspan79611">Professionelle Webseite </tspan><tspan
            x="108.91512"
            y="253.89656"
-           id="tspan91782">mit dem Homepage-</tspan><tspan
+           id="tspan79613">mit dem Homepage-</tspan><tspan
            x="108.91512"
            y="257.14731"
-           id="tspan91784">Builder Wordpress</tspan></text>
+           id="tspan79615">Builder Wordpress</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1228,7 +1239,7 @@
          transform="matrix(2.3678913,0,0,2.3678913,-139.22109,-274.58436)"><tspan
            x="108.91512"
            y="250.64581"
-           id="tspan91786">150</tspan></text>
+           id="tspan79617">150</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1238,7 +1249,7 @@
          transform="matrix(0.76636824,0,0,0.76636824,32.546266,126.91615)"><tspan
            x="108.91512"
            y="250.64581"
-           id="tspan91788">ab</tspan></text>
+           id="tspan79619">ab</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1248,7 +1259,7 @@
          transform="matrix(0.76636824,0,0,0.76636824,45.969481,126.82955)"><tspan
            x="108.91512"
            y="250.64581"
-           id="tspan91790">€</tspan></text>
+           id="tspan79621">€</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1258,7 +1269,7 @@
          transform="matrix(2.3678913,0,0,2.3678913,-139.8273,-281.68568)"><tspan
            x="108.91512"
            y="250.64581"
-           id="tspan91792">10</tspan></text>
+           id="tspan79623">10</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1268,7 +1279,7 @@
          transform="matrix(0.76636824,0,0,0.76636824,32.19986,119.64163)"><tspan
            x="108.91512"
            y="250.64581"
-           id="tspan91794">ab</tspan></text>
+           id="tspan79625">ab</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1278,7 +1289,7 @@
          transform="matrix(0.76636824,0,0,0.76636824,42.228651,119.54018)"><tspan
            x="108.91512"
            y="250.64581"
-           id="tspan91796">Tage</tspan></text>
+           id="tspan79627">Tage</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.19208px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:26.1551;display:inline;fill:#005b00;fill-opacity:1;stroke-width:0.164406"
@@ -1288,7 +1299,7 @@
          transform="matrix(0.88420111,0,0,0.88420111,12.261461,66.615938)"><tspan
            x="108.87829"
            y="249.49284"
-           id="tspan91798">✓Perfekt für Blogs </tspan></text>
+           id="tspan79629">✓Perfekt für Blogs </tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.19208px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:26.351;display:inline;fill:#005b00;fill-opacity:1;stroke-width:0.164406"
@@ -1298,7 +1309,7 @@
          transform="matrix(0.88420111,0,0,0.88420111,12.434664,70.079994)"><tspan
            x="108.87829"
            y="249.49284"
-           id="tspan91800">✓Schnell </tspan></text>
+           id="tspan79631">✓Schnell </tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.19208px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:27.2325;display:inline;fill:#5a5a5a;fill-opacity:1;stroke-width:0.164406"
@@ -1308,7 +1319,7 @@
          transform="matrix(0.88420111,0,0,0.88420111,12.261461,73.284245)"><tspan
            x="108.87829"
            y="249.49284"
-           id="tspan91802">x Weniger Personalisierung </tspan></text>
+           id="tspan79633">x Weniger Personalisierung </tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.19208px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:27.2325;display:inline;fill:#5a5a5a;fill-opacity:1;stroke-width:0.164406"
@@ -1318,10 +1329,10 @@
          transform="matrix(0.88420111,0,0,0.88420111,12.434664,76.748302)"><tspan
            x="108.87829"
            y="249.49284"
-           id="tspan91804">x Mehr auf Funktionalität </tspan><tspan
+           id="tspan79635">x Mehr auf Funktionalität </tspan><tspan
            x="108.87829"
            y="252.23293"
-           id="tspan91806">als auf Design ausgerichtet </tspan></text>
+           id="tspan79637">als auf Design ausgerichtet </tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -1343,13 +1354,13 @@
        transform="matrix(0.76636824,0,0,0.76636824,25.699114,89.970401)"><tspan
          x="108.91512"
          y="250.64581"
-         id="tspan91808">Professionelle Webseite </tspan><tspan
+         id="tspan79639">Professionelle Webseite </tspan><tspan
          x="108.91512"
          y="253.89656"
-         id="tspan91810">mit dem Homepage-</tspan><tspan
+         id="tspan79641">mit dem Homepage-</tspan><tspan
          x="108.91512"
          y="257.14731"
-         id="tspan91812">Builder Wordpress</tspan></text>
+         id="tspan79643">Builder Wordpress</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1359,7 +1370,7 @@
        transform="matrix(2.3678913,0,0,2.3678913,-139.83294,-270.65428)"><tspan
          x="108.91512"
          y="250.64581"
-         id="tspan91814">150</tspan></text>
+         id="tspan79645">150</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1369,7 +1380,7 @@
        transform="matrix(0.76636824,0,0,0.76636824,31.934414,130.84623)"><tspan
          x="108.91512"
          y="250.64581"
-         id="tspan91816">ab</tspan></text>
+         id="tspan79647">ab</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1379,7 +1390,7 @@
        transform="matrix(0.76636824,0,0,0.76636824,45.357629,130.75963)"><tspan
          x="108.91512"
          y="250.64581"
-         id="tspan91818">€</tspan></text>
+         id="tspan79649">€</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1389,7 +1400,7 @@
        transform="matrix(2.3678913,0,0,2.3678913,-140.17935,-277.9288)"><tspan
          x="108.91512"
          y="250.64581"
-         id="tspan91820">1</tspan></text>
+         id="tspan79651">1</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1399,7 +1410,7 @@
        transform="matrix(0.76636824,0,0,0.76636824,31.588008,123.57171)"><tspan
          x="108.91512"
          y="250.64581"
-         id="tspan91822">ab</tspan></text>
+         id="tspan79653">ab</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1409,7 +1420,7 @@
        transform="matrix(0.76636824,0,0,0.76636824,38.152743,123.73006)"><tspan
          x="108.91512"
          y="250.64581"
-         id="tspan91824">Woche</tspan></text>
+         id="tspan79655">Woche</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.19208px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:26.1551;display:inline;fill:#005b00;fill-opacity:1;stroke-width:0.164406"
@@ -1419,7 +1430,7 @@
        transform="matrix(0.88420111,0,0,0.88420111,11.772082,72.9955)"><tspan
          x="108.87829"
          y="249.49284"
-         id="tspan91826">✓Perfekt für Blogs </tspan></text>
+         id="tspan79657">✓Perfekt für Blogs </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.19208px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:26.351;display:inline;fill:#005b00;fill-opacity:1;stroke-width:0.164406"
@@ -1429,7 +1440,7 @@
        transform="matrix(0.88420111,0,0,0.88420111,11.945285,76.459556)"><tspan
          x="108.87829"
          y="249.49284"
-         id="tspan91828">✓Schnell </tspan></text>
+         id="tspan79659">✓Schnell </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.19208px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:27.2325;display:inline;fill:#5a5a5a;fill-opacity:1;stroke-width:0.164406"
@@ -1439,7 +1450,7 @@
        transform="matrix(0.88420111,0,0,0.88420111,11.772082,79.663807)"><tspan
          x="108.87829"
          y="249.49284"
-         id="tspan91830">x Weniger Personalisierung </tspan></text>
+         id="tspan79661">x Weniger Personalisierung </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.19208px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:27.2325;display:inline;fill:#5a5a5a;fill-opacity:1;stroke-width:0.164406"
@@ -1449,10 +1460,10 @@
        transform="matrix(0.88420111,0,0,0.88420111,11.945285,83.127864)"><tspan
          x="108.87829"
          y="249.49284"
-         id="tspan91832">x Mehr auf Funktionalität </tspan><tspan
+         id="tspan79663">x Mehr auf Funktionalität </tspan><tspan
          x="108.87829"
          y="252.23293"
-         id="tspan91834">als auf Design ausgerichtet </tspan></text>
+         id="tspan79665">als auf Design ausgerichtet </tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.276151;stroke-dasharray:none;stroke-opacity:1"
        id="rect104412"
@@ -1469,10 +1480,10 @@
        transform="translate(-0.97927057,3.9301071)"><tspan
          x="109.49728"
          y="274.07819"
-         id="tspan91836">Custom </tspan><tspan
+         id="tspan79667">Custom </tspan><tspan
          x="109.49728"
          y="277.81833"
-         id="tspan91838">Development</tspan></text>
+         id="tspan79669">Development</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1482,13 +1493,13 @@
        transform="matrix(0.76636824,0,0,0.76636824,25.209222,93.277169)"><tspan
          x="108.91512"
          y="250.64581"
-         id="tspan91840">Personalisierte Webseite </tspan><tspan
+         id="tspan79671">Personalisierte Webseite </tspan><tspan
          x="108.91512"
          y="253.89656"
-         id="tspan91842">mit HTML, CSS, JS und </tspan><tspan
+         id="tspan79673">mit HTML, CSS, JS und </tspan><tspan
          x="108.91512"
          y="257.14731"
-         id="tspan91844">PHP </tspan></text>
+         id="tspan79675">PHP </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1498,7 +1509,7 @@
        transform="matrix(2.3678913,0,0,2.3678913,-139.83294,-270.65428)"><tspan
          x="108.91512"
          y="250.64581"
-         id="tspan91846">200</tspan></text>
+         id="tspan79677">200</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1508,7 +1519,7 @@
        transform="matrix(0.76636824,0,0,0.76636824,31.934414,130.84623)"><tspan
          x="108.91512"
          y="250.64581"
-         id="tspan91848">ab</tspan></text>
+         id="tspan79679">ab</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1518,7 +1529,7 @@
        transform="matrix(0.76636824,0,0,0.76636824,45.357629,130.75963)"><tspan
          x="108.91512"
          y="250.64581"
-         id="tspan91850">€</tspan></text>
+         id="tspan79681">€</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1528,7 +1539,7 @@
        transform="matrix(2.3678913,0,0,2.3678913,-140.17935,-277.9288)"><tspan
          x="108.91512"
          y="250.64581"
-         id="tspan91852">2</tspan></text>
+         id="tspan79683">2</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1538,7 +1549,7 @@
        transform="matrix(0.76636824,0,0,0.76636824,31.588008,123.57171)"><tspan
          x="108.91512"
          y="250.64581"
-         id="tspan91854">ab</tspan></text>
+         id="tspan79685">ab</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1548,7 +1559,7 @@
        transform="matrix(0.76636824,0,0,0.76636824,38.152743,123.73006)"><tspan
          x="108.91512"
          y="250.64581"
-         id="tspan91856">Wochen</tspan></text>
+         id="tspan79687">Wochen</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.19208px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:26.1551;display:inline;fill:#005b00;fill-opacity:1;stroke-width:0.164406"
@@ -1558,10 +1569,10 @@
        transform="matrix(0.88420111,0,0,0.88420111,11.772082,72.9955)"><tspan
          x="108.87829"
          y="249.49284"
-         id="tspan91858">✓Maximale </tspan><tspan
+         id="tspan79689">✓Maximale </tspan><tspan
          x="108.87829"
          y="252.23295"
-         id="tspan91860">Personalisierung </tspan></text>
+         id="tspan79691">Personalisierung </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.19208px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:26.351;display:inline;fill:#005b00;fill-opacity:1;stroke-width:0.164406"
@@ -1571,10 +1582,10 @@
        transform="matrix(0.88420111,0,0,0.88420111,11.822812,78.541594)"><tspan
          x="108.87829"
          y="249.49284"
-         id="tspan91862">✓Wirkt professioneller als </tspan><tspan
+         id="tspan79693">✓Wirkt professioneller als </tspan><tspan
          x="108.87829"
          y="252.23295"
-         id="tspan91864">Website-Builder</tspan></text>
+         id="tspan79695">Website-Builder</tspan></text>
     <g
        id="g127185"
        transform="translate(29.429614,3.9090936)">
@@ -1598,13 +1609,13 @@
          transform="matrix(0.76636824,0,0,0.76636824,55.409032,86.040296)"><tspan
            x="108.91512"
            y="250.64581"
-           id="tspan91866">Professionelle Webseite </tspan><tspan
+           id="tspan79697">Professionelle Webseite </tspan><tspan
            x="108.91512"
            y="253.89656"
-           id="tspan91868">mit dem Homepage-</tspan><tspan
+           id="tspan79699">mit dem Homepage-</tspan><tspan
            x="108.91512"
            y="257.14731"
-           id="tspan91870">Builder Wordpress</tspan></text>
+           id="tspan79701">Builder Wordpress</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1614,7 +1625,7 @@
          transform="matrix(2.3678913,0,0,2.3678913,-110.12302,-274.58436)"><tspan
            x="108.91512"
            y="250.64581"
-           id="tspan91872">150</tspan></text>
+           id="tspan79703">150</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1624,7 +1635,7 @@
          transform="matrix(0.76636824,0,0,0.76636824,61.644332,126.91615)"><tspan
            x="108.91512"
            y="250.64581"
-           id="tspan91874">ab</tspan></text>
+           id="tspan79705">ab</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1634,7 +1645,7 @@
          transform="matrix(0.76636824,0,0,0.76636824,75.067547,126.82955)"><tspan
            x="108.91512"
            y="250.64581"
-           id="tspan91876">€</tspan></text>
+           id="tspan79707">€</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1644,7 +1655,7 @@
          transform="matrix(2.3678913,0,0,2.3678913,-110.46943,-281.85888)"><tspan
            x="108.91512"
            y="250.64581"
-           id="tspan91878">1</tspan></text>
+           id="tspan79709">1</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1654,7 +1665,7 @@
          transform="matrix(0.76636824,0,0,0.76636824,61.297926,119.64163)"><tspan
            x="108.91512"
            y="250.64581"
-           id="tspan91880">ab</tspan></text>
+           id="tspan79711">ab</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1664,7 +1675,7 @@
          transform="matrix(0.76636824,0,0,0.76636824,67.862661,119.79998)"><tspan
            x="108.91512"
            y="250.64581"
-           id="tspan91882">Woche</tspan></text>
+           id="tspan79713">Woche</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.19208px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:26.1551;display:inline;fill:#005b00;fill-opacity:1;stroke-width:0.164406"
@@ -1674,7 +1685,7 @@
          transform="matrix(0.88420111,0,0,0.88420111,41.359527,66.615938)"><tspan
            x="108.87829"
            y="249.49284"
-           id="tspan91884">✓Perfekt für Blogs </tspan></text>
+           id="tspan79715">✓Perfekt für Blogs </tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.19208px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:26.351;display:inline;fill:#005b00;fill-opacity:1;stroke-width:0.164406"
@@ -1684,7 +1695,7 @@
          transform="matrix(0.88420111,0,0,0.88420111,41.53273,70.079994)"><tspan
            x="108.87829"
            y="249.49284"
-           id="tspan91886">✓Schnell </tspan></text>
+           id="tspan79717">✓Schnell </tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.19208px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:27.2325;display:inline;fill:#5a5a5a;fill-opacity:1;stroke-width:0.164406"
@@ -1694,7 +1705,7 @@
          transform="matrix(0.88420111,0,0,0.88420111,41.359527,73.284245)"><tspan
            x="108.87829"
            y="249.49284"
-           id="tspan91888">x Weniger Personalisierung </tspan></text>
+           id="tspan79719">x Weniger Personalisierung </tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.19208px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:27.2325;display:inline;fill:#5a5a5a;fill-opacity:1;stroke-width:0.164406"
@@ -1704,10 +1715,10 @@
          transform="matrix(0.88420111,0,0,0.88420111,41.53273,76.748302)"><tspan
            x="108.87829"
            y="249.49284"
-           id="tspan91890">x Mehr auf Funktionalität </tspan><tspan
+           id="tspan79721">x Mehr auf Funktionalität </tspan><tspan
            x="108.87829"
            y="252.23293"
-           id="tspan91892">als auf Design ausgerichtet </tspan></text>
+           id="tspan79723">als auf Design ausgerichtet </tspan></text>
       <rect
          style="fill:#ffffff;stroke:#000000;stroke-width:0.276151;stroke-dasharray:none;stroke-opacity:1"
          id="rect104312"
@@ -1735,10 +1746,10 @@
          transform="matrix(0.76636824,0,0,0.76636824,54.184303,86.162769)"><tspan
            x="108.91512"
            y="250.64581"
-           id="tspan91894">Webseite mit dem </tspan><tspan
+           id="tspan79725">Webseite mit dem </tspan><tspan
            x="108.91512"
            y="253.89656"
-           id="tspan91896">Homepage-Builder Wix.com</tspan></text>
+           id="tspan79727">Homepage-Builder Wix.com</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1748,7 +1759,7 @@
          transform="matrix(2.3678913,0,0,2.3678913,-110.49044,-274.46189)"><tspan
            x="108.91512"
            y="250.64581"
-           id="tspan91898">100</tspan></text>
+           id="tspan79729">100</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1758,7 +1769,7 @@
          transform="matrix(0.76636824,0,0,0.76636824,61.644332,126.91615)"><tspan
            x="108.91512"
            y="250.64581"
-           id="tspan91900">ab</tspan></text>
+           id="tspan79731">ab</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1768,7 +1779,7 @@
          transform="matrix(0.76636824,0,0,0.76636824,75.434966,127.0745)"><tspan
            x="108.91512"
            y="250.64581"
-           id="tspan91902">€</tspan></text>
+           id="tspan79733">€</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1778,7 +1789,7 @@
          transform="matrix(2.3678913,0,0,2.3678913,-110.46943,-281.85888)"><tspan
            x="108.91512"
            y="250.64581"
-           id="tspan91904">1</tspan></text>
+           id="tspan79735">1</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1788,7 +1799,7 @@
          transform="matrix(0.76636824,0,0,0.76636824,61.297926,119.64163)"><tspan
            x="108.91512"
            y="250.64581"
-           id="tspan91906">ab</tspan></text>
+           id="tspan79737">ab</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1798,7 +1809,7 @@
          transform="matrix(0.76636824,0,0,0.76636824,67.862661,119.79998)"><tspan
            x="108.91512"
            y="250.64581"
-           id="tspan91908">Woche</tspan></text>
+           id="tspan79739">Woche</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.19208px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:26.351;display:inline;fill:#005b00;fill-opacity:1;stroke-width:0.164406"
@@ -1808,7 +1819,7 @@
          transform="matrix(0.88420111,0,0,0.88420111,41.655203,64.201296)"><tspan
            x="108.87829"
            y="249.49284"
-           id="tspan91910">✓Schnell </tspan></text>
+           id="tspan79741">✓Schnell </tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.19208px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:27.2325;display:inline;fill:#5a5a5a;fill-opacity:1;stroke-width:0.164406"
@@ -1818,7 +1829,7 @@
          transform="matrix(0.88420111,0,0,0.88420111,41.237054,74.508974)"><tspan
            x="108.87829"
            y="249.49284"
-           id="tspan91912">x Weniger Personalisierung </tspan></text>
+           id="tspan79743">x Weniger Personalisierung </tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.19208px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:27.2325;display:inline;fill:#5a5a5a;fill-opacity:1;stroke-width:0.164406"
@@ -1828,7 +1839,7 @@
          transform="matrix(0.88420111,0,0,0.88420111,41.287784,77.605612)"><tspan
            x="108.87829"
            y="249.49284"
-           id="tspan91914">x Keine Datenbank möglich</tspan></text>
+           id="tspan79745">x Keine Datenbank möglich</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.19208px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:26.351;display:inline;fill:#005b00;fill-opacity:1;stroke-width:0.164406"
@@ -1838,10 +1849,10 @@
          transform="matrix(0.88420111,0,0,0.88420111,41.410257,67.997955)"><tspan
            x="108.87829"
            y="249.49284"
-           id="tspan91916">✓Kostenloses Hosting mit </tspan><tspan
+           id="tspan79747">✓Kostenloses Hosting mit </tspan><tspan
            x="108.87829"
            y="252.23295"
-           id="tspan91918">wix-Domain </tspan></text>
+           id="tspan79749">wix-Domain </tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.19208px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:27.2325;display:inline;fill:#5a5a5a;fill-opacity:1;stroke-width:0.164406"
@@ -1851,13 +1862,13 @@
          transform="matrix(0.88420111,0,0,0.88420111,41.532729,80.667434)"><tspan
            x="108.87829"
            y="249.49284"
-           id="tspan91920">x Eine Wix-Seite kann für </tspan><tspan
+           id="tspan79751">x Eine Wix-Seite kann für </tspan><tspan
            x="108.87829"
            y="252.23293"
-           id="tspan91922">größere Unternehmen </tspan><tspan
+           id="tspan79753">größere Unternehmen </tspan><tspan
            x="108.87829"
            y="254.97303"
-           id="tspan91924">unprofessionell wirken</tspan></text>
+           id="tspan79755">unprofessionell wirken</tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -1868,7 +1879,7 @@
        transform="matrix(0.76140943,0,0,0.76140943,24.070525,187.69116)"><tspan
          x="108.45763"
          y="108.18504"
-         id="tspan91926">Webseiten</tspan></text>
+         id="tspan79757">Webseiten</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:84.0956;display:inline;stroke-width:0.264583"
@@ -1878,7 +1889,7 @@
        transform="matrix(0.76550135,0,0,0.76550135,24.845433,250.72137)"><tspan
          x="108.45763"
          y="108.18504"
-         id="tspan91928">Services</tspan></text>
+         id="tspan79759">Services</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.19208px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:80.4156;display:inline;fill:#005b00;fill-opacity:1;stroke-width:0.164406"
@@ -1888,7 +1899,7 @@
        transform="matrix(0.88420111,0,0,0.88420111,12.061946,41.768526)"><tspan
          x="108.87829"
          y="249.49284"
-         id="tspan91930">✓Anmeldung der Webseite für die Google-Suche und SEO</tspan></text>
+         id="tspan79761">✓Anmeldung der Webseite für die Google-Suche und SEO</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.0813826;stroke-dasharray:none;stroke-opacity:1"
        id="rect150806"
@@ -1916,7 +1927,7 @@
        transform="matrix(0.76550135,0,0,0.76550135,27.417363,258.43716)"><tspan
          x="108.45763"
          y="108.18504"
-         id="tspan91932">Logodesign und Firmenbranding</tspan></text>
+         id="tspan79763">Logodesign und Firmenbranding</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1926,7 +1937,7 @@
        transform="matrix(2.3678913,0,0,2.3678913,-96.624771,-248.65779)"><tspan
          x="108.91512"
          y="250.64581"
-         id="tspan91934">2</tspan></text>
+         id="tspan79765">2</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1936,7 +1947,7 @@
        transform="matrix(0.76636824,0,0,0.76636824,81.952258,152.38871)"><tspan
          x="108.91512"
          y="250.64581"
-         id="tspan91936">Tage</tspan></text>
+         id="tspan79767">Tage</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1946,7 +1957,7 @@
        transform="matrix(2.3678913,0,0,2.3678913,-81.55614,-248.78026)"><tspan
          x="108.91512"
          y="250.64581"
-         id="tspan91938">80</tspan></text>
+         id="tspan79769">80</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1956,7 +1967,7 @@
        transform="matrix(0.76636824,0,0,0.76636824,100.31175,152.46575)"><tspan
          x="108.91512"
          y="250.64581"
-         id="tspan91940">€</tspan></text>
+         id="tspan79771">€</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:111.959;display:inline;stroke-width:0.264583"
@@ -1966,10 +1977,10 @@
        transform="matrix(0.37666152,0,0,0.37666152,69.657455,303.23248)"><tspan
          x="108.45763"
          y="108.18504"
-         id="tspan91942">Entwurf mehrerer professionellen Logovorschläge und firmeneigenen </tspan><tspan
+         id="tspan79773">Entwurf mehrerer professionellen Logovorschläge und firmeneigenen </tspan><tspan
          x="108.45763"
          y="112.59475"
-         id="tspan91944">Design-Schemata</tspan></text>
+         id="tspan79775">Design-Schemata</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.0814418;stroke-dasharray:none;stroke-opacity:1"
        id="rect170539"
@@ -1986,7 +1997,7 @@
        transform="matrix(0.76550135,0,0,0.76550135,27.483415,286.13929)"><tspan
          x="108.45763"
          y="108.18504"
-         id="tspan91946">Webseitenwartung</tspan></text>
+         id="tspan79777">Webseitenwartung</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -1996,7 +2007,7 @@
        transform="matrix(2.3678913,0,0,2.3678913,-85.530837,-222.23982)"><tspan
          x="108.91512"
          y="250.64581"
-         id="tspan91948">10</tspan></text>
+         id="tspan79779">10</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -2006,7 +2017,7 @@
        transform="matrix(0.76636824,0,0,0.76636824,96.394141,178.95546)"><tspan
          x="108.91512"
          y="250.64581"
-         id="tspan91950">€ / Monat</tspan></text>
+         id="tspan79781">€ / Monat</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:111.959;display:inline;stroke-width:0.264583"
@@ -2016,10 +2027,10 @@
        transform="matrix(0.37666152,0,0,0.37666152,69.723507,330.93461)"><tspan
          x="108.45763"
          y="108.18504"
-         id="tspan91952">Umsetzung von kleinen bis mittelgroßen Änderungen innerhalb von </tspan><tspan
+         id="tspan79783">Umsetzung von kleinen bis mittelgroßen Änderungen innerhalb von </tspan><tspan
          x="108.45763"
          y="112.59475"
-         id="tspan91954">wenigen Tagen.</tspan></text>
+         id="tspan79785">wenigen Tagen.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:111.959;display:inline;fill:#005d14;fill-opacity:1;stroke-width:0.264583"
@@ -2029,7 +2040,7 @@
        transform="matrix(0.37666152,0,0,0.37666152,126.79327,333.61925)"><tspan
          x="108.45763"
          y="108.18504"
-         id="tspan91956">1/2 Jahr kostenlos im Angebot dabei</tspan></text>
+         id="tspan79787">1/2 Jahr kostenlos im Angebot dabei</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
@@ -2252,7 +2263,7 @@
        transform="matrix(0.88420111,0,0,0.88420111,12.016515,34.870131)"><tspan
          x="108.87829"
          y="249.49284"
-         id="tspan91958">✓Für immer kostenlose Fehlerbehebung </tspan></text>
+         id="tspan79789">✓Für immer kostenlose Fehlerbehebung </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.60222px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.195167"
@@ -2328,7 +2339,7 @@
        transform="matrix(2.3678913,0,0,2.3678913,-199.77954,-155.81567)"><tspan
          x="108.91512"
          y="250.64581"
-         id="tspan91960">19.5</tspan></text>
+         id="tspan79791">19.5</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.61426px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.196069"
@@ -2349,7 +2360,7 @@
        transform="translate(-0.42662357,73.385495)"><tspan
          x="8.3059721"
          y="139.98253"
-         id="tspan91962">Warum DeltaY?</tspan></text>
+         id="tspan79793">Warum DeltaY?</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
@@ -2393,13 +2404,13 @@
        transform="translate(0.12899573,14.133485)"><tspan
          x="8.3059721"
          y="139.98253"
-         id="tspan91964">Social Media </tspan><tspan
+         id="tspan79795">Social Media </tspan><tspan
          x="8.3059721"
          y="144.39224"
-         id="tspan91966">Content </tspan><tspan
+         id="tspan79797">Content </tspan><tspan
          x="8.3059721"
          y="148.80195"
-         id="tspan91968">Creation </tspan></text>
+         id="tspan79799">Creation </tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.0814418;stroke-dasharray:none;stroke-opacity:1"
        id="rect16332"
@@ -2416,7 +2427,7 @@
        transform="matrix(0.76550135,0,0,0.76550135,27.330762,271.94258)"><tspan
          x="108.45763"
          y="108.18504"
-         id="tspan91970">Content Creation</tspan></text>
+         id="tspan79801">Content Creation</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -2426,7 +2437,7 @@
        transform="matrix(2.3678913,0,0,2.3678913,-84.095989,-235.90736)"><tspan
          x="108.91512"
          y="250.64581"
-         id="tspan91972">20</tspan></text>
+         id="tspan79803">20</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -2436,7 +2447,7 @@
        transform="matrix(0.76636824,0,0,0.76636824,97.828989,165.28792)"><tspan
          x="108.91512"
          y="250.64581"
-         id="tspan91974">€ / Monat</tspan></text>
+         id="tspan79805">€ / Monat</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:111.959;display:inline;stroke-width:0.264583"
@@ -2446,11 +2457,11 @@
        transform="matrix(0.37666152,0,0,0.37666152,69.570854,316.7379)"><tspan
          x="108.45763"
          y="108.18504"
-         id="tspan91976">- Posts und Marketing auf deinen Social Media Kanälen
+         id="tspan79807">- Posts und Marketing auf deinen Social Media Kanälen
 </tspan><tspan
          x="108.45763"
          y="112.59475"
-         id="tspan91978">- Bei Webseiten mit Blog Blogposts</tspan></text>
+         id="tspan79809">- Bei Webseiten mit Blog Blogposts</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6006px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:29.4035;display:inline;stroke-width:0.195045"
@@ -2460,7 +2471,7 @@
        transform="matrix(0.76636824,0,0,0.76636824,87.112404,165.51245)"><tspan
          x="108.91512"
          y="250.64581"
-         id="tspan91980">ab</tspan></text>
+         id="tspan79811">ab</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.06585px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.154939"
@@ -2514,7 +2525,7 @@
        transform="matrix(1.5156395,0,0,1.5156395,-156.72952,-158.03273)"><tspan
          x="108.87829"
          y="249.49284"
-         id="tspan91982">✓Persönlich, günstig und zuverlässig </tspan></text>
+         id="tspan79813">✓Persönlich, günstig und zuverlässig </tspan></text>
     <g
        id="g39944"
        transform="translate(0.45795827,7.6326378)">
@@ -2527,7 +2538,7 @@
          transform="matrix(1.5156395,0,0,1.5156395,-157.03483,-149.02621)"><tspan
            x="108.87829"
            y="249.49284"
-           id="tspan91984">✓Wir legen großen Wert auf Kundenkontak </tspan></text>
+           id="tspan79815">✓Wir legen großen Wert auf Kundenkontak </tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.55181px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.191386"
@@ -2549,10 +2560,10 @@
        transform="matrix(1.5156395,0,0,1.5156395,-156.88218,-151.77396)"><tspan
          x="108.87829"
          y="249.49284"
-         id="tspan91986">✓Logodesign, Webdevelopment, Content Creation und </tspan><tspan
+         id="tspan79817">✓Logodesign, Webdevelopment, Content Creation und </tspan><tspan
          x="108.87829"
          y="252.23295"
-         id="tspan91988">Social Media Marketing in einem </tspan></text>
+         id="tspan79819">Social Media Marketing in einem </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:83.2781;display:inline;stroke-width:0.264583"
@@ -2562,10 +2573,10 @@
        transform="translate(0.18398745,179.93712)"><tspan
          x="8.3059721"
          y="139.98253"
-         id="tspan91990">Noch nicht überzeugt? Button: Sieh dir unsere </tspan><tspan
+         id="tspan79821">Noch nicht überzeugt? Button: Sieh dir unsere </tspan><tspan
          x="8.3059721"
          y="144.39224"
-         id="tspan91992">Angebote an</tspan></text>
+         id="tspan79823">Angebote an</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.308408;stroke-dasharray:none;stroke-opacity:1"
        id="rect50564"
@@ -2594,24 +2605,24 @@
        transform="matrix(0.63677752,0,0,0.63677752,-55.641081,405.8857)"><tspan
          x="108.45763"
          y="108.18504"
-         id="tspan91994">Wir sind ein kreatives Team von jungen Talenten, leidenschaftlich daran, </tspan><tspan
+         id="tspan79825">Wir sind ein kreatives Team von jungen Talenten, leidenschaftlich daran, </tspan><tspan
          x="108.45763"
          y="112.59475"
-         id="tspan91996">beeindruckende Webseiten zu gestalten und Unternehmer:innen zu </tspan><tspan
+         id="tspan79827">beeindruckende Webseiten zu gestalten und Unternehmer:innen zu </tspan><tspan
          x="108.45763"
          y="117.00447"
-         id="tspan91998">unterstützen.
+         id="tspan79829">unterstützen.
 </tspan><tspan
          x="108.45763"
          y="121.41418"
-         id="tspan92000">
+         id="tspan79831">
 </tspan><tspan
          x="108.45763"
          y="125.82389"
-         id="tspan92002">Unser Ziel ist es, persönliche und kostengünstige Webentwicklung und </tspan><tspan
+         id="tspan79833">Unser Ziel ist es, persönliche und kostengünstige Webentwicklung und </tspan><tspan
          x="108.45763"
          y="130.23361"
-         id="tspan92004">Marketinglösungen anzubieten, die zuverlässig und maßgeschneidert sind</tspan></text>
+         id="tspan79835">Marketinglösungen anzubieten, die zuverlässig und maßgeschneidert sind</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:163.046;display:inline;stroke-width:0.264583"
@@ -2621,170 +2632,170 @@
        transform="matrix(0.5253115,0,0,0.5253115,0.7893684,235.19478)"><tspan
          x="11.333889"
          y="495.23697"
-         id="tspan92006">Über Uns
+         id="tspan79837">Über Uns
 </tspan><tspan
          x="11.333889"
          y="499.64668"
-         id="tspan92008">
+         id="tspan79839">
 </tspan><tspan
          x="11.333889"
          y="504.05638"
-         id="tspan92010">DeltaY ist ein aufstrebendes Unternehmen mit Sitz in Österreich, das im Jahr 2023 gegründet wurde. </tspan><tspan
+         id="tspan79841">DeltaY ist ein aufstrebendes Unternehmen mit Sitz in Österreich, das im Jahr 2023 gegründet wurde. </tspan><tspan
          x="11.333889"
          y="508.46608"
-         id="tspan92012">Unsere Leidenschaft und unser Engagement für Webentwicklung, Design und Marketing haben uns </tspan><tspan
+         id="tspan79843">Unsere Leidenschaft und unser Engagement für Webentwicklung, Design und Marketing haben uns </tspan><tspan
          x="11.333889"
          y="512.87577"
-         id="tspan92014">dazu inspiriert, eine Firma zu schaffen, die auf persönliche, günstige und zuverlässige Dienstleistungen </tspan><tspan
+         id="tspan79845">dazu inspiriert, eine Firma zu schaffen, die auf persönliche, günstige und zuverlässige Dienstleistungen </tspan><tspan
          x="11.333889"
          y="517.2855"
-         id="tspan92016">spezialisiert ist.
+         id="tspan79847">spezialisiert ist.
 </tspan><tspan
          x="11.333889"
          y="521.69523"
-         id="tspan92018">
+         id="tspan79849">
 </tspan><tspan
          x="11.333889"
          y="526.10496"
-         id="tspan92020">Unsere Vision
+         id="tspan79851">Unsere Vision
 </tspan><tspan
          x="11.333889"
          y="530.51469"
-         id="tspan92022">
+         id="tspan79853">
 </tspan><tspan
          x="11.333889"
          y="534.92442"
-         id="tspan92024">Unsere Vision ist es, Unternehmen und Unternehmer dabei zu unterstützen, sich in der digitalen Welt zu </tspan><tspan
+         id="tspan79855">Unsere Vision ist es, Unternehmen und Unternehmer dabei zu unterstützen, sich in der digitalen Welt zu </tspan><tspan
          x="11.333889"
          y="539.33415"
-         id="tspan92026">etablieren und erfolgreich zu sein. Wir glauben, dass eine herausragende Online-Präsenz der Schlüssel </tspan><tspan
+         id="tspan79857">etablieren und erfolgreich zu sein. Wir glauben, dass eine herausragende Online-Präsenz der Schlüssel </tspan><tspan
          x="11.333889"
          y="543.74388"
-         id="tspan92028">zum Erfolg in der heutigen Zeit ist.
+         id="tspan79859">zum Erfolg in der heutigen Zeit ist.
 </tspan><tspan
          x="11.333889"
          y="548.15361"
-         id="tspan92030">
+         id="tspan79861">
 </tspan><tspan
          x="11.333889"
          y="552.56334"
-         id="tspan92032">Unsere Mission
+         id="tspan79863">Unsere Mission
 </tspan><tspan
          x="11.333889"
          y="556.97306"
-         id="tspan92034">
+         id="tspan79865">
 </tspan><tspan
          x="11.333889"
          y="561.38279"
-         id="tspan92036">Unsere Mission ist es, maßgeschneiderte Lösungen für unsere Kunden zu entwickeln, die nicht nur </tspan><tspan
+         id="tspan79867">Unsere Mission ist es, maßgeschneiderte Lösungen für unsere Kunden zu entwickeln, die nicht nur </tspan><tspan
          x="11.333889"
          y="565.79252"
-         id="tspan92038">ästhetisch ansprechend sind, sondern auch effektiv funktionieren. Wir setzen auf direkten Kontakt und </tspan><tspan
+         id="tspan79869">ästhetisch ansprechend sind, sondern auch effektiv funktionieren. Wir setzen auf direkten Kontakt und </tspan><tspan
          x="11.333889"
          y="570.20225"
-         id="tspan92040">engen Austausch mit unseren Kunden, um deren individuelle Anforderungen zu verstehen und in ein </tspan><tspan
+         id="tspan79871">engen Austausch mit unseren Kunden, um deren individuelle Anforderungen zu verstehen und in ein </tspan><tspan
          x="11.333889"
          y="574.61198"
-         id="tspan92042">beeindruckendes Online-Erlebnis umzusetzen.
+         id="tspan79873">beeindruckendes Online-Erlebnis umzusetzen.
 </tspan><tspan
          x="11.333889"
          y="579.02171"
-         id="tspan92044">
+         id="tspan79875">
 </tspan><tspan
          x="11.333889"
          y="583.43144"
-         id="tspan92046">Unsere Herangehensweise
+         id="tspan79877">Unsere Herangehensweise
 </tspan><tspan
          x="11.333889"
          y="587.84117"
-         id="tspan92048">
+         id="tspan79879">
 </tspan><tspan
          x="11.333889"
          y="592.2509"
-         id="tspan92050">Bei uns steht der Kunde an erster Stelle. Wir bieten nicht nur professionelles Webdesign und </tspan><tspan
+         id="tspan79881">Bei uns steht der Kunde an erster Stelle. Wir bieten nicht nur professionelles Webdesign und </tspan><tspan
          x="11.333889"
          y="596.66063"
-         id="tspan92052">zuverlässige Entwicklungsdienstleistungen, sondern auch ein persönliches Engagement, das über den </tspan><tspan
+         id="tspan79883">zuverlässige Entwicklungsdienstleistungen, sondern auch ein persönliches Engagement, das über den </tspan><tspan
          x="11.333889"
          y="601.07035"
-         id="tspan92054">Bildschirm hinausgeht. Unser Team ist bestrebt, deine Wünsche und Vorstellungen in jeder Phase des </tspan><tspan
+         id="tspan79885">Bildschirm hinausgeht. Unser Team ist bestrebt, deine Wünsche und Vorstellungen in jeder Phase des </tspan><tspan
          x="11.333889"
          y="605.48008"
-         id="tspan92056">Projekts zu berücksichtigen.
+         id="tspan79887">Projekts zu berücksichtigen.
 </tspan><tspan
          x="11.333889"
          y="609.88981"
-         id="tspan92058">
+         id="tspan79889">
 </tspan><tspan
          x="11.333889"
          y="614.29954"
-         id="tspan92060">Unsere Schnelligkeit
+         id="tspan79891">Unsere Schnelligkeit
 </tspan><tspan
          x="11.333889"
          y="618.70927"
-         id="tspan92062">
+         id="tspan79893">
 </tspan><tspan
          x="11.333889"
          y="623.119"
-         id="tspan92064">Wir verstehen, wie wichtig Zeit in der digitalen Welt ist. Deshalb setzen wir alles daran, deine Webseite </tspan><tspan
+         id="tspan79895">Wir verstehen, wie wichtig Zeit in der digitalen Welt ist. Deshalb setzen wir alles daran, deine Webseite </tspan><tspan
          x="11.333889"
          y="627.52873"
-         id="tspan92066">in rekordverdächtiger Zeit zu realisieren. Wir wissen, dass schnelles Handeln den Unterschied machen </tspan><tspan
+         id="tspan79897">in rekordverdächtiger Zeit zu realisieren. Wir wissen, dass schnelles Handeln den Unterschied machen </tspan><tspan
          x="11.333889"
          y="631.93846"
-         id="tspan92068">kann.
+         id="tspan79899">kann.
 </tspan><tspan
          x="11.333889"
          y="636.34819"
-         id="tspan92070">
+         id="tspan79901">
 </tspan><tspan
          x="11.333889"
          y="640.75792"
-         id="tspan92072">Unsere Verpflichtung
+         id="tspan79903">Unsere Verpflichtung
 </tspan><tspan
          x="11.333889"
          y="645.16764"
-         id="tspan92074">
+         id="tspan79905">
 </tspan><tspan
          x="11.333889"
          y="649.57737"
-         id="tspan92076">In den ersten sechs Monaten nach Abschluss des Projekts bieten wir unseren Kunden kostenlosen </tspan><tspan
+         id="tspan79907">In den ersten sechs Monaten nach Abschluss des Projekts bieten wir unseren Kunden kostenlosen </tspan><tspan
          x="11.333889"
          y="653.9871"
-         id="tspan92078">Service, um eventuelle Fehler zu beheben und kleinere Anpassungen vorzunehmen. IDein Erfolg ist </tspan><tspan
+         id="tspan79909">Service, um eventuelle Fehler zu beheben und kleinere Anpassungen vorzunehmen. IDein Erfolg ist </tspan><tspan
          x="11.333889"
          y="658.39683"
-         id="tspan92080">unser Erfolg, und wir stehen auch nach Abschluss des Projekts an deiner Seite.
+         id="tspan79911">unser Erfolg, und wir stehen auch nach Abschluss des Projekts an deiner Seite.
 </tspan><tspan
          x="11.333889"
          y="662.80656"
-         id="tspan92082">
+         id="tspan79913">
 </tspan><tspan
          x="11.333889"
          y="667.21629"
-         id="tspan92084">Vertraue uns
+         id="tspan79915">Vertraue uns
 </tspan><tspan
          x="11.333889"
          y="671.62602"
-         id="tspan92086">
+         id="tspan79917">
 </tspan><tspan
          x="11.333889"
          y="676.03575"
-         id="tspan92088">Vertraue uns, um deine Online-Präsenz auf das nächste Level zu heben. Wir sind stolz darauf, </tspan><tspan
+         id="tspan79919">Vertraue uns, um deine Online-Präsenz auf das nächste Level zu heben. Wir sind stolz darauf, </tspan><tspan
          x="11.333889"
          y="680.44548"
-         id="tspan92090">persönliche, günstige und zuverlässige Dienstleistungen anzubieten, die deine Erwartungen übertreffen </tspan><tspan
+         id="tspan79921">persönliche, günstige und zuverlässige Dienstleistungen anzubieten, die deine Erwartungen übertreffen </tspan><tspan
          x="11.333889"
          y="684.85521"
-         id="tspan92092">werden. Dein Erfolg ist unsere Motivation.
+         id="tspan79923">werden. Dein Erfolg ist unsere Motivation.
 </tspan><tspan
          x="11.333889"
          y="689.26493"
-         id="tspan92094">
+         id="tspan79925">
 </tspan><tspan
          x="11.333889"
          y="693.67466"
-         id="tspan92096">Kontaktiere uns bei weiteren Fragen: webdev@deltay.at</tspan></text>
+         id="tspan79927">Kontaktiere uns bei weiteren Fragen: webdev@deltay.at</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.86035px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:83.9462;display:inline;stroke-width:0.139527"
@@ -2794,14 +2805,14 @@
        transform="matrix(1.0359492,0,0,0.9652983,-3.5620794,0)"><tspan
          x="10.231956"
          y="480.09503"
-         id="tspan92098">Hier pls voll kreativ werden, der Text soll nicht aussehen wie ein Impressum, sondern gestalterisch
+         id="tspan79929">Hier pls voll kreativ werden, der Text soll nicht aussehen wie ein Impressum, sondern gestalterisch
 </tspan><tspan
          x="10.231956"
          y="482.42047"
-         id="tspan92100">Seitlich können vielleicht so Bilder von dir und mir und vllt Robert wenn er mitmacht und drunter steht </tspan><tspan
+         id="tspan79931">Seitlich können vielleicht so Bilder von dir und mir und vllt Robert wenn er mitmacht und drunter steht </tspan><tspan
          x="10.231956"
          y="484.74591"
-         id="tspan92102">welche Position (eg. Designerin) wir haben</tspan></text>
+         id="tspan79933">welche Position (eg. Designerin) wir haben</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:113.435;display:inline;stroke-width:0.264583"
@@ -2811,7 +2822,7 @@
        transform="matrix(0.58502354,0,0,0.58502354,5.2029691,227.07961)"><tspan
          x="8.3059721"
          y="139.98253"
-         id="tspan92104">Nach absenden kommt ein Button mit Hinterlasse eine Bewertung</tspan></text>
+         id="tspan79935">Nach absenden kommt ein Button mit Hinterlasse eine Bewertung</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.275807;stroke-dasharray:none;stroke-opacity:1"
        id="rect77345"
@@ -2922,10 +2933,10 @@
        transform="matrix(1.0359492,0,0,0.9652983,18.623637,6.869374)"><tspan
          x="147.30367"
          y="482.38278"
-         id="tspan92106">Button: Schreibe </tspan><tspan
+         id="tspan79937">Button: Schreibe </tspan><tspan
          x="147.30367"
          y="485.82492"
-         id="tspan92108">eine Bewertung</tspan></text>
+         id="tspan79939">eine Bewertung</tspan></text>
     <g
        id="g105923"
        transform="translate(60.755798,-1.831833)">
@@ -3100,10 +3111,10 @@
        transform="matrix(0.9354924,0,0,0.87169257,11.217886,41.685161)"><tspan
          x="105.51101"
          y="442.42841"
-         id="tspan92110">Joa ganz solide, ABER WEISST DU NOCH WIE </tspan><tspan
+         id="tspan79941">Joa ganz solide, ABER WEISST DU NOCH WIE </tspan><tspan
          x="105.51101"
          y="445.85168"
-         id="tspan92112">MAN EIN DIV CENTERED?</tspan></text>
+         id="tspan79943">MAN EIN DIV CENTERED?</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.0694432;stroke-dasharray:none;stroke-opacity:1"
        id="rect119486"
@@ -3144,7 +3155,7 @@
        transform="matrix(0.9354924,0,0,0.87169257,11.370539,60.46145)"><tspan
          x="105.51101"
          y="442.42841"
-         id="tspan92114">Komm her Ennio Schatzi ;)</tspan></text>
+         id="tspan79945">Komm her Ennio Schatzi ;)</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.103527;stroke-dasharray:none;stroke-opacity:1"
        id="rect120575"
@@ -3173,22 +3184,22 @@
        transform="matrix(0.9354924,0,0,0.87169257,11.370539,75.726726)"><tspan
          x="105.51101"
          y="442.42841"
-         id="tspan92116">DU HAST DEN NAMEN GEKLAUT DEN ICH </tspan><tspan
+         id="tspan79947">DU HAST DEN NAMEN GEKLAUT DEN ICH </tspan><tspan
          x="105.51101"
          y="445.85168"
-         id="tspan92118">MIT DIR ZUSAMMEN ERFUNDEN HABE WIE </tspan><tspan
+         id="tspan79949">MIT DIR ZUSAMMEN ERFUNDEN HABE WIE </tspan><tspan
          x="105.51101"
          y="449.27496"
-         id="tspan92120">KONNTEST DU SO ETWAS TUN; DAS WIRD </tspan><tspan
+         id="tspan79951">KONNTEST DU SO ETWAS TUN; DAS WIRD </tspan><tspan
          x="105.51101"
          y="452.69824"
-         id="tspan92122">RECHTLICHE KONSEQUENZEN HABEN! ICH </tspan><tspan
+         id="tspan79953">RECHTLICHE KONSEQUENZEN HABEN! ICH </tspan><tspan
          x="105.51101"
          y="456.12152"
-         id="tspan92124">WAR NOCH NIE SO ENTTÄUSCHT GEH </tspan><tspan
+         id="tspan79955">WAR NOCH NIE SO ENTTÄUSCHT GEH </tspan><tspan
          x="105.51101"
          y="459.5448"
-         id="tspan92126">DICH DOCH EINFACH LÖSCHEN</tspan></text>
+         id="tspan79957">DICH DOCH EINFACH LÖSCHEN</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.41425px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.256069"
@@ -3264,23 +3275,23 @@
        transform="matrix(1.0359492,0,0,0.9652983,12.970991,-68.257479)"><tspan
          x="147.30367"
          y="482.38278"
-         id="tspan92128">Boah kein plan wo ich </tspan><tspan
+         id="tspan79959">Boah kein plan wo ich </tspan><tspan
          x="147.30367"
          y="485.82492"
-         id="tspan92130">hier das Menü hintun </tspan><tspan
+         id="tspan79962">hier das Menü hintun </tspan><tspan
          x="147.30367"
          y="489.26706"
-         id="tspan92132">soll :(
+         id="tspan79964">soll :(
 </tspan><tspan
          x="147.30367"
          y="492.7092"
-         id="tspan92134">Vielleicht oben statt an </tspan><tspan
+         id="tspan79966">Vielleicht oben statt an </tspan><tspan
          x="147.30367"
          y="496.15134"
-         id="tspan92136">die Seite? Bei Mobile </tspan><tspan
+         id="tspan79968">die Seite? Bei Mobile </tspan><tspan
          x="147.30367"
          y="499.59348"
-         id="tspan92138">view fix nach oben</tspan></text>
+         id="tspan79970">view fix nach oben</tspan></text>
     <g
        id="g133204"
        transform="translate(-5.8008047,-3.5110134)">
@@ -3293,7 +3304,7 @@
          transform="matrix(1.0359492,0,0,0.9652983,-8.5076113,43.353384)"><tspan
            x="147.30367"
            y="482.38278"
-           id="tspan92140">&lt; Seite 2 / 10 &gt;</tspan></text>
+           id="tspan79972">&lt; Seite 2 / 10 &gt;</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.7537px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:28.6759;display:inline;stroke-width:0.206528"
@@ -3303,7 +3314,7 @@
          transform="matrix(0.710605,0,0,0.66214231,41.19321,193.41752)"><tspan
            x="147.30367"
            y="482.38278"
-           id="tspan92142">1 2 3 4 5 6 7 8 9 10</tspan></text>
+           id="tspan79974">1 2 3 4 5 6 7 8 9 10</tspan></text>
     </g>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.0694432;stroke-dasharray:none;stroke-opacity:1"
@@ -3345,7 +3356,7 @@
        transform="matrix(0.9354924,0,0,0.87169257,11.217886,106.86789)"><tspan
          x="105.51101"
          y="442.42841"
-         id="tspan92144">Produkte geil, genau wie du Ennio &lt;3</tspan></text>
+         id="tspan79976">Produkte geil, genau wie du Ennio &lt;3</tspan></text>
     <path
        sodipodi:type="star"
        style="fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
@@ -3503,16 +3514,16 @@
        transform="matrix(0.56855459,0,0,0.56855459,45.934212,49.897416)"><tspan
          x="108.45763"
          y="108.18504"
-         id="tspan92146">Unsere Firma ermöglicht jungen Entwicklern, </tspan><tspan
+         id="tspan79978">Unsere Firma ermöglicht jungen Entwicklern, </tspan><tspan
          x="108.45763"
          y="112.59475"
-         id="tspan92148">während ihrer Ausbildung oder ihres Studiums </tspan><tspan
+         id="tspan79980">während ihrer Ausbildung oder ihres Studiums </tspan><tspan
          x="108.45763"
          y="117.00447"
-         id="tspan92150">praktische Erfahrungen zu sammeln und Geld zu </tspan><tspan
+         id="tspan79982">praktische Erfahrungen zu sammeln und Geld zu </tspan><tspan
          x="108.45763"
          y="121.41418"
-         id="tspan92152">verdienen, ohne den Druck einer festen Anstellung.
+         id="tspan79984">verdienen, ohne den Druck einer festen Anstellung.
 </tspan></text>
     <text
        xml:space="preserve"
@@ -3523,96 +3534,96 @@
        transform="matrix(0.67698076,0,0,0.63081121,37.466568,203.29648)"><tspan
          x="104.37785"
          y="609.81372"
-         id="tspan92154">Bist du ein aufstrebender WordPress-Entwickler oder eine Entwicklerin, der/die während der </tspan><tspan
+         id="tspan79986">Bist du ein aufstrebender WordPress-Entwickler oder eine Entwicklerin, der/die während der </tspan><tspan
          x="104.37785"
          y="613.29574"
-         id="tspan92156">Ausbildung oder Studium zusätzliches Geld verdienen möchte? Wir haben die ideale Gelegenheit </tspan><tspan
+         id="tspan79988">Ausbildung oder Studium zusätzliches Geld verdienen möchte? Wir haben die ideale Gelegenheit </tspan><tspan
          x="104.37785"
          y="616.77774"
-         id="tspan92158">für dich!
+         id="tspan79990">für dich!
 </tspan><tspan
          x="104.37785"
          y="620.25973"
-         id="tspan92160">
+         id="tspan79992">
 </tspan><tspan
          x="104.37785"
          y="623.74173"
-         id="tspan92162">Was wir suchen:
+         id="tspan79994">Was wir suchen:
 </tspan><tspan
          x="104.37785"
          y="627.22372"
-         id="tspan92164">
+         id="tspan79996">
 </tspan><tspan
          x="104.37785"
          y="630.70572"
-         id="tspan92168">🛠️ <tspan
+         id="tspan80000">🛠️ <tspan
    style="font-weight:bold;-inkscape-font-specification:'Arial Bold'"
-   id="tspan92166">Grundlegende WordPress-Kenntnisse:</tspan> Du solltest die Grundlagen von WordPress </tspan><tspan
+   id="tspan79998">Grundlegende WordPress-Kenntnisse:</tspan> Du solltest die Grundlagen von WordPress </tspan><tspan
          x="104.37785"
          y="634.18771"
-         id="tspan92170">beherrschen und die Bereitschaft haben, mehr zu lernen.
+         id="tspan80002">beherrschen und die Bereitschaft haben, mehr zu lernen.
 </tspan><tspan
          x="104.37785"
          y="637.66971"
-         id="tspan92172">
+         id="tspan80004">
 </tspan><tspan
          x="104.37785"
          y="641.1517"
-         id="tspan92176">💡<tspan
+         id="tspan80008">💡<tspan
    style="font-weight:bold;-inkscape-font-specification:'Arial Bold'"
-   id="tspan92174">Bereitschaft zum Lernen:</tspan> Wir unterstützen deine Entwicklung und helfen dir, deine </tspan><tspan
+   id="tspan80006">Bereitschaft zum Lernen:</tspan> Wir unterstützen deine Entwicklung und helfen dir, deine </tspan><tspan
          x="104.37785"
          y="644.6337"
-         id="tspan92178">Fähigkeiten in der Webentwicklung auszubauen.
+         id="tspan80010">Fähigkeiten in der Webentwicklung auszubauen.
 </tspan><tspan
          x="104.37785"
          y="648.11569"
-         id="tspan92180">
+         id="tspan80012">
 </tspan><tspan
          x="104.37785"
          y="651.59769"
-         id="tspan92184">🤩 <tspan
+         id="tspan80016">🤩 <tspan
    style="font-weight:bold;-inkscape-font-specification:'Arial Bold'"
-   id="tspan92182">Eigeninitiative:</tspan> Als Freelancer kannst du flexibel arbeiten und deine eigenen </tspan><tspan
+   id="tspan80014">Eigeninitiative:</tspan> Als Freelancer kannst du flexibel arbeiten und deine eigenen </tspan><tspan
          x="104.37785"
          y="655.07968"
-         id="tspan92186">Arbeitsmethoden wählen.
+         id="tspan80018">Arbeitsmethoden wählen.
 </tspan><tspan
          x="104.37785"
          y="658.56167"
-         id="tspan92188">
+         id="tspan80020">
 </tspan><tspan
          x="104.37785"
          y="662.04367"
-         id="tspan92190">Warum dieser Job cool ist:
+         id="tspan80022">Warum dieser Job cool ist:
 </tspan><tspan
          x="104.37785"
          y="665.52566"
-         id="tspan92192">
+         id="tspan80024">
 </tspan><tspan
          x="104.37785"
          y="669.00766"
-         id="tspan92194">Unsere Firma für Webentwicklung und Marketing bietet jungen Entwicklern und Entwicklerinnen </tspan><tspan
+         id="tspan80026">Unsere Firma für Webentwicklung und Marketing bietet jungen Entwicklern und Entwicklerinnen </tspan><tspan
          x="104.37785"
          y="672.48965"
-         id="tspan92196">die Möglichkeit, neben ihrer Ausbildung oder ihrem Studium praktische Erfahrungen zu sammeln </tspan><tspan
+         id="tspan80028">die Möglichkeit, neben ihrer Ausbildung oder ihrem Studium praktische Erfahrungen zu sammeln </tspan><tspan
          x="104.37785"
          y="675.97165"
-         id="tspan92198">und Geld zu verdienen. Du kannst in einem unterstützenden Umfeld lernen und wachsen, ohne </tspan><tspan
+         id="tspan80030">und Geld zu verdienen. Du kannst in einem unterstützenden Umfeld lernen und wachsen, ohne </tspan><tspan
          x="104.37785"
          y="679.45364"
-         id="tspan92200">den Druck eines festen Arbeitsverhältnisses.
+         id="tspan80032">den Druck eines festen Arbeitsverhältnisses.
 </tspan><tspan
          x="104.37785"
          y="682.93564"
-         id="tspan92202">
+         id="tspan80034">
 </tspan><tspan
          x="104.37785"
          y="686.41763"
-         id="tspan92204">Bewirb dich jetzt und nutze diese Chance, um deine Fähigkeiten in der WordPress-Entwicklung </tspan><tspan
+         id="tspan80036">Bewirb dich jetzt und nutze diese Chance, um deine Fähigkeiten in der WordPress-Entwicklung </tspan><tspan
          x="104.37785"
          y="689.89963"
-         id="tspan92206">auszubauen und gleichzeitig dein Einkommen aufzubessern!</tspan></text>
+         id="tspan80038">auszubauen und gleichzeitig dein Einkommen aufzubessern!</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:'Almonte Snow';-inkscape-font-specification:'Almonte Snow';stroke-width:0.264583"
@@ -3623,7 +3634,7 @@
          id="tspan15824"
          x="156.40767"
          y="603.61053"
-         style="stroke-width:0.264583"></tspan><tspan
+         style="stroke-width:0.264583" /><tspan
          sodipodi:role="line"
          x="156.40767"
          y="608.02026"
@@ -3886,26 +3897,26 @@
        transform="matrix(0.81596601,0,0,0.76031779,1.0192857,136.59492)"><tspan
          x="8.4037647"
          y="676.1767"
-         id="tspan92208">
+         id="tspan80040">
 </tspan><tspan
          x="8.4037647"
          y="679.19851"
-         id="tspan92210">Das Menschsein ist eine einzigartige Existenzform, die sich grundlegend von der eines Fisches </tspan><tspan
+         id="tspan80042">Das Menschsein ist eine einzigartige Existenzform, die sich grundlegend von der eines Fisches </tspan><tspan
          x="8.4037647"
          y="682.2203"
-         id="tspan92212">unterscheidet. Als Mensch haben wir die Fähigkeit zu denken, zu fühlen, zu kommunizieren </tspan><tspan
+         id="tspan80044">unterscheidet. Als Mensch haben wir die Fähigkeit zu denken, zu fühlen, zu kommunizieren </tspan><tspan
          x="8.4037647"
          y="685.24209"
-         id="tspan92214">und unsere Umgebung auf komplexe Weisen zu gestalten. Während es nicht möglich ist, </tspan><tspan
+         id="tspan80046">und unsere Umgebung auf komplexe Weisen zu gestalten. Während es nicht möglich ist, </tspan><tspan
          x="8.4037647"
          y="688.26388"
-         id="tspan92216">buchstäblich ein Fisch zu werden, können wir dennoch unsere Verbindung zur Natur stärken </tspan><tspan
+         id="tspan80048">buchstäblich ein Fisch zu werden, können wir dennoch unsere Verbindung zur Natur stärken </tspan><tspan
          x="8.4037647"
          y="691.28566"
-         id="tspan92218">und die Welt der Fische besser verstehen, indem wir uns intensiver mit ihrer Lebensweise und </tspan><tspan
+         id="tspan80050">und die Welt der Fische besser verstehen, indem wir uns intensiver mit ihrer Lebensweise und </tspan><tspan
          x="8.4037647"
          y="694.30745"
-         id="tspan92220">ihrem Lebensraum beschäftigen.</tspan></text>
+         id="tspan80052">ihrem Lebensraum beschäftigen.</tspan></text>
     <rect
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1"
        id="rect81325"
@@ -3955,7 +3966,7 @@
        transform="scale(1.0359492,0.9652983)"><tspan
          x="8.7163534"
          y="703.34955"
-         id="tspan92222">Wieso ist Schöni so hot? ;)</tspan></text>
+         id="tspan80054">Wieso ist Schöni so hot? ;)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.41743px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.181308"
@@ -3977,7 +3988,7 @@
        transform="matrix(1.0359492,0,0,0.9652983,-0.2158836,12.089481)"><tspan
          x="8.7163534"
          y="703.34955"
-         id="tspan92224">Nicht was du suchst?</tspan></text>
+         id="tspan80056">Nicht was du suchst?</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.41743px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:73.4276;display:inline;stroke-width:0.181308"
@@ -3987,6 +3998,6 @@
        transform="matrix(1.0359492,0,0,0.9652983,25.79809,12.197423)"><tspan
          x="8.7163534"
          y="703.34955"
-         id="tspan92226">Button: Kontaktiere uns hier</tspan></text>
+         id="tspan80058">Button: Kontaktiere uns hier</tspan></text>
   </g>
 </svg>

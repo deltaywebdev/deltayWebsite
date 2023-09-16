@@ -1,0 +1,47 @@
+@import '../../variables';
+
+.dropdown {
+    position: relative;
+
+    .items {
+        position: absolute;
+        z-index: 11;
+        left: 50%;
+        transform-origin: top;
+        transform: translateX(-50%) translateY(0em) scaleY(0);
+        border-radius: 1em;
+        padding: 0.5em 0.75em;
+        width: max-content;
+        background-color: $background-teriary;
+        opacity: 0;
+        pointer-events: none;
+        transition: $standard-transition;
+
+        .item {
+            display: block;
+        }
+
+        .connection {
+            position: absolute;
+            bottom: -1em;
+            width: 100%;
+            height: 1em;
+            background-color: red;
+        }
+    }
+
+    .title {
+        cursor: pointer;
+        padding-bottom: 2em;
+
+        &:hover {
+            opacity: 0.6;
+        }
+    }
+
+    .title:hover ~ .items, .items:hover {
+        opacity: 1;
+        pointer-events: all;
+        transform: translateX(-50%) translateY(0.5em) scaleY(1);
+    }
+}

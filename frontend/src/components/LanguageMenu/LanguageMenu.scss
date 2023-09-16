@@ -1,36 +1,5 @@
 @import '../../variables';
 
-.lang-icon {
-    width: 2em;
-    aspect-ratio: 1 / 1;
-    border-radius: 50%;
-    background-size: cover;
-    background-position: center;
-    cursor: pointer;
-    position: relative;
-    color: $font-primary;
-    overflow: hidden;
-
-    span {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translateX(-50%) translateY(-60%);
-        z-index: 5;
-    }
-
-    &::after {
-        content: '';
-        position: absolute;
-        top: 0;
-        right: 0;
-        bottom: 0;
-        left: 0;
-        background-color: $background-secondary;
-        opacity: 0.6;
-    }
-}
-
 .active-lang {
     cursor: pointer;
 }
@@ -40,27 +9,71 @@
     align-items: center;
     gap: 20px;
     width: fit-content;
-    padding: 0.5em 1em;
     border-radius: 1em;
+    position: relative;
+    margin: 0 1em;
 
-    .list {
-        position: relative;
+    .lang-icon {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        color: $font-primary;
+        transition: $standard-transition;
+        display: block;
+        width: 2em;
+        aspect-ratio: 1 / 1;
+        border-radius: 50%;
+        background-size: cover;
+        background-position: center;
+        opacity: 0;
+        cursor: pointer;
+        overflow: hidden;
 
-        .item {
+        span {
             position: absolute;
             top: 50%;
-            transform: translateY(-50%);
-            color: $font-primary;
-            transition: $standard-transition;
-            display: block;
-        
-            &:hover {
-                transform: translateY(-50%) scale(1.2);
-            }
-        
-            &.active {
-                border: 1px solid $font-primary;
-            }
+            left: 50%;
+            transform: translateX(-50%) translateY(-50%);
+            z-index: 5;
         }
+
+        &::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            background-color: $background-secondary;
+            opacity: 0.6;
+        }
+    
+        &:hover {
+            transform: scale(1.2) translateY(-50%);
+        }
+    
+        &.active {
+            border: 1px solid $font-primary;
+        }
+    }
+
+    &.open .lang-icon {
+        opacity: 1;
+    }
+
+    &.list-left .lang-icon {
+        left: -3em;
+    }
+
+    &.list-left.open .lang-icon {
+        left: calc(var(--index) * -3em - 3em)
+    }
+
+    &.list-right .lang-icon {
+        right: -2em;
+    }
+
+    &.list-right.open .lang-icon {
+        right: calc(var(--index) * -3em - 3em)
     }
 }

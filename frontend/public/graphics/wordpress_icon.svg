@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="35.22773mm"
+   height="35.22773mm"
+   viewBox="0 0 35.22773 35.22773"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="wordpress_icon.svg"
+   inkscape:export-filename="deltay_logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0104048"
+     inkscape:cx="-23.258005"
+     inkscape:cy="-34.639582"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient69838"
+       id="linearGradient22756"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0715052,0,0,1.0715052,-663.61297,623.08143)"
+       x1="735.48132"
+       y1="36.016788"
+       x2="726.98505"
+       y2="89.210815" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient69838">
+      <stop
+         style="stop-color:#04bc71;stop-opacity:1;"
+         offset="0"
+         id="stop69834" />
+      <stop
+         style="stop-color:#048a81;stop-opacity:1;"
+         offset="1"
+         id="stop69836" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-27.163983,-45.232226)">
+    <g
+       id="g22748"
+       transform="translate(-78.29576,-625.74302)">
+      <circle
+         style="fill:url(#linearGradient22756);fill-opacity:1;stroke:none;stroke-width:1.58118;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:15.6"
+         id="circle22740"
+         cx="123.07361"
+         cy="688.58911"
+         r="17.613865" />
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#f4f6f4;stroke-width:1.58118;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:15.6;stroke-opacity:1"
+         id="circle22742"
+         cx="123.15827"
+         cy="688.85437"
+         r="14.554023" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.5536px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#f4f6f4;fill-opacity:1;stroke:none;stroke-width:2.09629;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:15.6;stroke-opacity:1"
+         x="113.49842"
+         y="696.21948"
+         id="text22746"><tspan
+           sodipodi:role="line"
+           id="tspan22744"
+           style="fill:#f4f6f4;fill-opacity:1;stroke:none;stroke-width:2.09629"
+           x="113.49842"
+           y="696.21948">W</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,54 @@
+@import '../../variables';
+
+section.top {
+    padding: 150px 0 23vw 0;
+    background: linear-gradient(170deg, $bg-gradient-start, $bg-gradient-end);
+
+    img:not(.svg-transition) {
+        box-shadow: 0 10px 100px -20px $background-teriary;
+    }
+}
+
+section.products {
+    background-color: $background-light1;
+    color: $font-primary-light;
+    padding: 1em 0 10em 0;
+}
+
+.product{
+    border-radius: 2em;
+    width: 20%;
+    min-width: 15em;
+    aspect-ratio: 9 / 10;
+    display: flex;
+    padding: 2em;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: space-evenly;
+    background-color: $font-primary;
+    box-shadow: 0 0 50px -40px $font-primary-light;
+
+    p {
+        width: 100%;
+        text-align: center;
+    }
+
+    img {
+        width: 3em;
+    }
+}
+
+section.projects {
+    padding: 1em 0 4em 0;
+    background-color: $background-light2;
+    color: $font-primary-light;
+}
+
+.project {
+    border-radius: 0.7em;
+    background-color: $font-primary;
+    box-shadow: 0 0 50px -40px $font-primary-light;
+    background-image: url(https://i0.wp.com/finncham.at/wp-content/uploads/2022/07/placeholder-1.png?ssl=1);
+    background-size: cover;
+    height: 100%;
+}

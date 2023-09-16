@@ -1,11 +1,70 @@
 @import '../../variables';
 
 footer {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    padding: 2em;
-    text-align: center;
-    color: $font-secondary;
+    padding: 2em 2em 1em 2em;
+    background-color: $background-secondary;
+
+    h1 {
+        margin: 1em 0 0.5em 0;
+        font-size: $fs-medium;
+    }
+
+    .social-media {
+        display: flex;
+        gap: 10px;
+
+        a {
+            font-size: 23px;
+            cursor: pointer;
+        }
+    }
+
+    .info {
+        img {
+            display: block;
+            height: 2em;
+            margin: 0 0 1em auto;
+            cursor: pointer;
+        }
+    }
+
+    section {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        gap: 2em 3em;
+    }
+
+    nav {
+        
+        a {
+            display: block;
+            width: fit-content;
+            margin: 0.5em auto 0.5em 0;
+        }
+    }
+
+    section:last-of-type {
+        color: $font-secondary;
+        margin-top: 2em;
+        padding-top: 1em;
+        position: relative;
+
+        &::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: calc(100% + 4em);
+            height: 1px;
+            background-color: $font-secondary;
+        }
+    }
+
+    .logo {
+        height: 3em;
+    }
 }
