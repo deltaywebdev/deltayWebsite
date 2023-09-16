@@ -13,19 +13,32 @@ Refer to this [Git Tutorial](https://www.atlassian.com/git/tutorials) for a comp
 
    Open your file explorer and create a new folder in a location of your choice. You can name it anything you like, e.g., "DeltaY."
 
-2. **Go to the folder, right-click (Windows 11: Show more options), and select `Git Bash here`**
+2. **Go to the folder, right-click (Windows 11: Show more options), and select `Open Git Bash here`**
+
+   **Note: you need to install [Git Bash](https://gitforwindows.org/) before the option appears**
 
 3. **Generate SSH Key (If not already done)**
 
    If you haven't generated an SSH key for your GitHub account before, you can do so by running the following command in the Git Bash terminal. Replace `"your-github@email.example"` with your actual GitHub email address.
 
    ```shell
-   ssh-keygen -t ed25519 -C "your-github@email.example"
+   ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
    ```
 
    When prompted, press Enter to use the default file location and leave the passphrase empty.
 
-4. **Configure Git with Your GitHub Account**
+4. **Add SSH Key to you Github account**
+
+   If you haven't added the SSH key to your github you can do it by going under **Github/Settings/SSH and GPG Keys/New SSH** and then paste the public key there
+
+   you can find your public key if you do:
+
+    ```shell
+   cat ~/.ssh/id_rsa.pub
+   ```
+   make sure to copy the entire key and post it into the coresponidng box
+
+5. **Configure Git with Your GitHub Account**
 
    If you haven't configured Git with your GitHub account, you need to set your GitHub username and email in Git. Run the following commands in the Git Bash terminal, replacing `"Your Name"` and `"your-github@email.example"` with your actual GitHub username and email:
 
@@ -33,7 +46,7 @@ Refer to this [Git Tutorial](https://www.atlassian.com/git/tutorials) for a comp
    git config --global user.name "Your Name"
    git config --global user.email "your-github@email.example"
    ```
-5. **Clone the Repository**
+6. **Clone the Repository**
 
    Go to the [DeltaY Website Repository](https://github.com/deltaywebdev/website).
 
@@ -49,7 +62,7 @@ Refer to this [Git Tutorial](https://www.atlassian.com/git/tutorials) for a comp
 
    This will download the repository to your local machine.
 
-6. **Install Dependencies**
+7. **Install Dependencies**
 
    Change your working directory to the cloned repository folder:
 
@@ -63,7 +76,14 @@ Refer to this [Git Tutorial](https://www.atlassian.com/git/tutorials) for a comp
    npm install
    ```
 
+   
    This will install all the necessary packages and dependencies for the DeltaY Website project.
+
+   **Note**: if you get the error "package.json" not found you may need to navigate into the frontend folder using:
+
+   ```shell
+   cd frontend
+   ```
 
 ### Making Changes
 1. **Create a New Branch**
