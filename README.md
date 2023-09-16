@@ -109,8 +109,17 @@ Refer to this [Git Tutorial](https://www.atlassian.com/git/tutorials) for a comp
     ```
 
     This associates your local repository with the remote repository on GitHub.
+
+4. **Add GIT to Visual Studio Code**
+   If you use Visual Studio Code you need to enable git, first create a **instance of Git** in your Folger using:
+
+    ```shell
+   git init
+   ```
+   After that you navigate to File > Preferences > Settings > Type git:enabled into the search box > Make sure the box is enabled.
+
  
-4. **Commit Changes**
+5. **Commit Changes**
 
    After making changes, open your Git Bash terminal again, navigate to the project folder if you're not already there, and run the following commands to commit your changes:
 
@@ -121,7 +130,7 @@ Refer to this [Git Tutorial](https://www.atlassian.com/git/tutorials) for a comp
 
    Replace `"Your commit message here"` with a brief description of the changes you made.
 
-5. **Push Changes to GitHub**
+6. **Push Changes to GitHub**
 
    To push your committed changes to the GitHub repository, use the following command:
 
@@ -129,6 +138,6 @@ Refer to this [Git Tutorial](https://www.atlassian.com/git/tutorials) for a comp
    git push origin your-branch-name
    ```
 
-6. **Merging Your Branch**
+7. **Merging Your Branch**
 
     If you're ready to merge your changes into the main branch, you can create a pull request on the GitHub repository's website. Once your changes are reviewed and approved, they can be merged into the main branch.
