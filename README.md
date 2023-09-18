@@ -24,7 +24,6 @@ Refer to this [Git Tutorial](https://www.atlassian.com/git/tutorials) for a comp
    ```shell
    ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
    ```
-
    When prompted, press Enter to use the default file location and leave the passphrase empty.
 
 4. **Add SSH Key to you Github account**
@@ -54,7 +53,7 @@ Refer to this [Git Tutorial](https://www.atlassian.com/git/tutorials) for a comp
 
    Copy the SSH URL of the repository (e.g., `git@github.com:deltaywebdev/website.git`).
 
-   Back in your Git Bash terminal, run the following command to clone the repository into your newly created folder:
+   Back in your Git Bash terminal, run the following command to clone the repository into your newly created folder(make sure you are still in the folder):
 
    ```shell
    git clone git@github.com:deltaywebdev/website.git
