@@ -8,9 +8,9 @@
     font-size: $fs-regular;
     cursor: pointer;
     overflow: hidden;
-    transition: calc($standard-transition / 4) ease-out;
     position: relative;
     color: $font-primary;
+    box-shadow: 0.25em 0.75em 1em rgba($cyangreen, 0.4);
 
     &.secondary {
        border: 2px solid $font-primary; 
@@ -19,7 +19,12 @@
 
        &.light {
         border-color: $font-primary-light;
+        color: $font-primary-light;
        }
+    }
+
+    &.secondary, &.noshadow {
+        box-shadow: none;
     }
 
     
@@ -52,7 +57,7 @@
 
     &:hover {
         color: $background-teriary;
-        font-weight: bold;
+        font-weight: 500;
 
         &::after {
             transform: scaleY(1);
@@ -64,7 +69,7 @@
     }
 
     &.primary:hover > * {
-        font-weight: bold;
+        font-weight: 500;
         background: $gradient-left;
         background-clip: text;
         -webkit-text-fill-color: transparent;

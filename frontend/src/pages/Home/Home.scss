@@ -1,5 +1,14 @@
 @import '../../variables';
 
+section {
+    position: relative;
+
+    & > * {
+        position: relative;
+        z-index: 1;
+    }
+}
+
 section.top {
     padding: 150px 0 23vw 0;
     background: linear-gradient(170deg, $bg-gradient-start, $bg-gradient-end);
@@ -26,7 +35,7 @@ section.products {
     flex-wrap: wrap;
     align-content: space-evenly;
     background-color: $font-primary;
-    box-shadow: 0 0 50px -40px $font-primary-light;
+    box-shadow: 0.75em 0.75em 3em -2em rgba($font-primary-light, 0.5);
 
     p {
         width: 100%;
@@ -48,7 +57,102 @@ section.projects {
     border-radius: 0.7em;
     background-color: $font-primary;
     box-shadow: 0 0 50px -40px $font-primary-light;
-    background-image: url(https://i0.wp.com/finncham.at/wp-content/uploads/2022/07/placeholder-1.png?ssl=1);
     background-size: cover;
     height: 100%;
+    overflow: hidden;
+    position: relative;
+
+    a {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        top: 0;
+        background-color: rgba(0, 0, 0, 0.5);
+        color: $font-primary;
+        align-self: flex-end;
+        padding: 0.5em;
+        text-align: center;
+        opacity: 0;
+        transition: opacity $standard-transition, pointer-events 0 2s;
+        display: flex;
+        justify-content: center;
+        pointer-events: none;
+        align-items: center;
+
+        span {
+            margin-left: 5px;
+        }
+    }
 }
+
+@keyframes delay-pointer-events {
+    0%{pointer-events: none;}
+    99%{pointer-events: none;}
+    100%{pointer-events: all;}
+}
+
+.center .project {
+    pointer-events: none;
+
+    a {
+        animation: delay-pointer-events calc(var(--transition-time) / 1.5) forwards;
+    }
+
+    &:hover a {
+        opacity: 1;
+    }
+}
+
+section.about {
+    background: linear-gradient(170deg, $bg-gradient-start, $bg-gradient-end);
+
+    & > div > div:first-child{
+        font-size: $fs-medium;
+    }
+
+    b {
+        font-size: $fs-large;
+    }
+
+    .list {
+        background: linear-gradient(to bottom, $cyangreen, $cyan);
+        -webkit-background-clip: text;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-weight: 500;
+
+        li {
+            display: flex;
+            align-items: center;
+            margin: 2em 0;
+            
+            img {
+                font-size: 70px;
+                width: 1em;
+            }
+
+            span {
+                font-size: 70px;
+                display: block;
+                padding: 0 0.6em;
+                font-weight: 600;
+            }
+
+            b {
+                margin-bottom: 0.3em;
+                font-size: $fs-larger;
+                display: block;
+                font-family: Raleway;
+                font-weight: 800!important;
+            }
+        }
+    }
+}
+
+section.reviews {
+    background-color: $background-light1;
+    color: $font-primary-light;
+    padding: 1em 0 4em 0;
+}
+

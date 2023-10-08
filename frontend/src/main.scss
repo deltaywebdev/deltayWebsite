@@ -1,5 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;800&display=swap%27');
 @import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400&display=swap%27');
 @import 'variables';
 
 @import 'tailwindcss/base';
@@ -96,7 +96,8 @@ a:not(.hover):not(.nohover), .hover.hover-underline {@include hover-underline()}
 }
 
 .emph {
-    color: $font-highlighted
+    color: $font-highlighted;
+    font-weight: bolder;
 }
 
 strong {
@@ -138,4 +139,36 @@ section {
 
 .anchor {
     transform: translateY(-50px);
+}
+
+.floating-rect {
+    position: absolute;
+    width: 13em;
+    aspect-ratio: 3 / 2;
+    z-index: 0;
+    background-color: rgba($background-white, 0.05);
+    border-radius: 1em;
+    $rotation: 7deg;
+    transform: rotate($rotation) skew($rotation);
+
+    &.gradient-right {
+        background: linear-gradient(to right, rgba($background-white, 0.05), transparent);
+    }
+
+    &.gradient-left {
+        background: linear-gradient(to left, rgba($background-white, 0.05), transparent);
+    }
+}
+
+strong {
+    font-weight: normal!important;
+    font-size: $fs-larger;
+}
+
+html * b {
+    font-weight: 600;
+}
+
+.ant-rate-star-full svg {
+    fill: $font-cyan!important;
 }

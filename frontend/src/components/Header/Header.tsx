@@ -12,9 +12,43 @@ export const Header:FC= () => {
     const headerRef = useRef<HTMLElement | null>(null)
 
     useEffect(() => {
+        let lastScrollY:number = 0
+        let waiting:number = 0
+        let headerTop:number = 0
+
         const handleScroll = () => {
-            if(window.scrollY > 10) headerRef.current?.classList.add('scrolled')
-            else headerRef.current?.classList.remove('scrolled')
+            const header:HTMLElement|null = headerRef.current
+            if(!header) return
+
+            const showHeaderThreshold:number = header.offsetHeight
+            const change:number = window.scrollY - lastScrollY
+
+            if(change > 0) {
+                headerTop = Math.max(-header.offsetHeight, headerTop - change)
+                waiting = 0
+            }
+            
+            if(change < 0) {
+                if(headerTop > -header.offsetHeight) headerTop = Math.min(0, headerTop - change)
+                else if(waiting < showHeaderThreshold) waiting -= change
+                else {
+                    headerTop = 0
+                    header.style.opacity = '1'
+                    waiting = 0
+                }
+            }
+
+            if(window.scrollY > 0 && headerTop === 0) header.classList.add('scrolled')
+            if(window.scrollY === 0) {
+                header.classList.remove('scrolled')
+                headerTop = 0
+            }
+
+            if(headerTop === -header.offsetHeight) header.style.opacity = '0'
+            else header.style.opacity = '1'
+
+            header.style.top = headerTop + 'px'
+            lastScrollY = window.scrollY
         }
 
         window.addEventListener('scroll', handleScroll)

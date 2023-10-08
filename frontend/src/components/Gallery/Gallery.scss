@@ -6,6 +6,7 @@
     max-width: 80em;
     margin: auto;
     overflow: hidden;
+    overflow-y: visible;
 
     &::before, &::after {
         content: '';
@@ -25,7 +26,7 @@
         background: linear-gradient(to right, transparent, var(--background-color));
     }
     
-    & > * {
+    .gallery-item {
         position: absolute;
 
         user-select: none;
@@ -39,11 +40,90 @@
         transform: translateX(-50%) translateY(-50%);
         transform-origin: center;
         height: 100%;
+        cursor: pointer;
         width: calc((90% - 5em) / var(--visible-items));
-        transition: transform .75s, opacity .75s;
+        --transition-time: 0.75s;
+        transition: transform var(--transition-time), opacity var(--transition-time);
 
-        &:hover {
-            filter: brightness(1.02);
+        &:not(.center):hover {
+            filter: brightness(1.05);
+        }
+
+        &.center {
+            cursor: default;
+        }
+    }
+
+    &:not([data-mousedown="false"]) > *:not(.pagination){
+        transition: none;
+    }
+}
+
+.pagination {
+    display: block;
+    width: fit-content!important;
+    margin: 2em auto 0 auto;
+
+    a::after {
+        display: none!important;
+    }
+
+    .ant-pagination-next, .ant-pagination-prev {
+        display: inline-flex;
+        align-items: center;
+
+        &.ant-pagination-disabled {
+            pointer-events: none;
+        }
+    }
+
+    .ant-pagination-item-link {
+        transition: $standard-transition;
+        border-radius: 50%!important;
+        background-color: $background-white!important;
+        box-shadow: 0 0 1em -0.75em $font-primary-light;
+        $size: 4em;
+        width: $size!important;
+        height: $size!important;
+        margin: 0 1em;
+
+        &:disabled {    
+            opacity: 0;
+        }
+
+        span {
+            color: $font-cyan;
+            transition: inherit;
+            transform-origin: center;
+            transform: scale(2);
+        }
+
+        &:hover span {
+            transform: scale(2.5);
+        }
+    }
+
+    .ant-pagination-item {
+        $size: 1em;
+        width: $size!important;
+        min-width: $size;
+        height: $size;
+        background-color: #d8e3dfff;
+        border-radius: 50%;
+        margin: 0 1em;
+        transition: background-color $standard-transition;
+
+        a {
+            display: none;
+        }
+
+        &.ant-pagination-item-active {
+            background-color: $font-cyan;
+            border: none;
+        }
+
+        &:not(.ant-pagination-item-active):hover {
+            background-color: rgb(180, 207, 204)!important;
         }
     }
 }
