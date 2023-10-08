@@ -6,17 +6,18 @@ interface GalleryItemProps {
     centerIndex:number
     getWidths:Function
     calcTranslate:Function
-    childCount:number
+    distanceRatio:number
     transformScale:boolean|undefined
     transformRotate:boolean|undefined
+    changeOpacity:boolean|undefined
 }
 
 export const GalleryItem:FC<PropsWithChildren<GalleryItemProps>> = (props) => {
-    const {index, translate, centerIndex, getWidths, calcTranslate, childCount, transformScale, transformRotate} = props
+    const {index, translate, centerIndex, getWidths, calcTranslate, distanceRatio, transformScale, transformRotate, changeOpacity} = props
 
     const {itemWidth, parentWidth} = getWidths()
     const moveItem:number = itemWidth * (index - centerIndex) + translate
-    let transform:string = `translateX(calc(-50% + ${moveItem * (1 - Math.abs(moveItem / (parentWidth / 2)) * (transformScale ? 0.3 : 0.1))}px)) translateY(calc(-50%))`
+    let transform:string = `translateX(calc(-50% + ${moveItem * (1 - Math.abs(moveItem / (parentWidth / 2)) * (transformScale ? (1 - distanceRatio + 0.2) : (1 - distanceRatio)))}px)) translateY(calc(-50%))`
 
     if(transformScale) transform += ` scale(calc(1 - ${Math.min(1, Math.abs(moveItem / (parentWidth / 2)) * 0.3)}))`
     if(transformRotate) transform += ` rotate3d(0, 1, 0, ${Math.max(-90, Math.min(90, (moveItem / (parentWidth / 2)) * 60))}deg)`
@@ -27,8 +28,8 @@ export const GalleryItem:FC<PropsWithChildren<GalleryItemProps>> = (props) => {
         <div
             style={{
                 transform: transform,
-                zIndex: String(Math.min(7, childCount - Math.abs(1 - index))),
-                opacity: String(opacity),
+                zIndex: String(9 - Math.abs(moveItem / (parentWidth / 2)) * 3),
+                opacity: changeOpacity ? String(opacity) : 1,
                 pointerEvents: opacity < 0.3 ? 'none' : 'all'
             }}
 
@@ -40,6 +41,8 @@ export const GalleryItem:FC<PropsWithChildren<GalleryItemProps>> = (props) => {
                 const dragDist = Math.abs(Number((e.target as HTMLDivElement).dataset.mousex) - e.clientX)
                 if(dragDist < 10) calcTranslate(-itemWidth * (index - centerIndex))
             }}
+
+            className={moveItem === 0 ? 'gallery-item center' : 'gallery-item'}
         >
             {props.children}
         </div>

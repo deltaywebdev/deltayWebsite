@@ -1,0 +1,42 @@
+@import '../../variables';
+
+.review {
+    border-radius: 0.7em;
+    height: calc(100% - 2em);
+    background-color: $font-primary;
+    font-size: $fs-regular;
+    box-shadow: 0 0 50px -40px $font-primary-light;
+    overflow: hidden;
+    display: grid;
+    grid-template-rows: 20% 50% 30%;
+    grid-template-columns: 100%;
+    
+
+    .quotes {
+        width: 2.5em;
+        margin: 1em 0 0 1.5em;
+    }
+
+    p {
+        display: flex;
+        align-items: center;
+        padding: 0 1.5em;
+
+        span {
+            height: fit-content;
+        }
+    }
+
+    .bottom {
+        border-top: 1.2px solid $font-cyan;
+
+        & > div {
+            display: flex;
+            height: 100%;
+            padding: 1em 1.5em;
+            font-size: $fs-small;
+            background: $soft-bg-light;
+            border-radius: 0.5em 0.5em 0 0;
+        }
+    }
+}
