@@ -35,7 +35,7 @@ Refer to this [Git Tutorial](https://www.atlassian.com/git/tutorials) for a comp
    ```
 5. **Clone the Repository**
 
-   Go to the [DeltaY Website Repository](https://github.com/deltaywebdev/website).
+   Go to the [DeltaY Website Repository](https://github.com/deltaywebdev/deltayWebsite).
 
    Click on the "Code" button and select "Local" > "SSH" to switch to the SSH URL.
 
@@ -44,7 +44,7 @@ Refer to this [Git Tutorial](https://www.atlassian.com/git/tutorials) for a comp
    Back in your Git Bash terminal, run the following command to clone the repository into your newly created folder:
 
    ```shell
-   git clone git@github.com:deltaywebdev/website.git
+   git clone git@github.com:deltaywebdev/deltayWebsite.git
    ```
 
    This will download the repository to your local machine.
@@ -85,7 +85,7 @@ Refer to this [Git Tutorial](https://www.atlassian.com/git/tutorials) for a comp
     If you haven't configured the remote repository, you can do so with the following command:
 
     ```shell
-    git remote add origin git@github.com:deltaywebdev/website.git
+    git remote add origin git@github.com:deltaywebdev/deltayWebsite.git
     ```
 
     This associates your local repository with the remote repository on GitHub.
